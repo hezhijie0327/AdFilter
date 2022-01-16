@@ -1,11 +1,11 @@
-# Checksum: MTY0MjIwODgxNgo=
+# Checksum: MTY0MjI5NTU1Mwo=
 # Title: Zhijie's Ad Filter for Surge (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.1-20220115-0
-# TimeUpdated: 2022-01-15T01:06:56+00:00
+# Version: 1.2.1-20220116-0
+# TimeUpdated: 2022-01-16T01:12:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 109994
+# Total: 110012
 DOMAIN,0-132.net.daraz.com
 DOMAIN,0.nextyourcontent.com
 DOMAIN,0.oldgyhogola.com
@@ -15001,6 +15001,7 @@ DOMAIN,ayahtyros.com
 DOMAIN,ayalapma.com
 DOMAIN,ayandns.com
 DOMAIN,ayazsth.cn
+DOMAIN,aybnn.cn
 DOMAIN,ayboll.com
 DOMAIN,ayc0zsm69431gfebd.info
 DOMAIN,ayc0zsm69431gfebd.xyz
@@ -22455,6 +22456,7 @@ DOMAIN,chopstick16.com
 DOMAIN,chordeez.net
 DOMAIN,chosensoothespeechless.com
 DOMAIN,chouftak.net
+DOMAIN,choujimai.top
 DOMAIN,choupsee.com
 DOMAIN,chpfgx.com
 DOMAIN,chpok.pw
@@ -23714,6 +23716,7 @@ DOMAIN,cm8.lycos.com
 DOMAIN,cmads.sv.publicus.com
 DOMAIN,cmads.us.publicus.com
 DOMAIN,cmadserver.de
+DOMAIN,cmall.club
 DOMAIN,cmap.alibaba.com
 DOMAIN,cmarket.kejet.net
 DOMAIN,cmass.massmedian.co.jp
@@ -27642,6 +27645,7 @@ DOMAIN,cyboke.cn
 DOMAIN,cybook.fun
 DOMAIN,cybugim4bdzqhwl.ru
 DOMAIN,cycalaky.xyz
+DOMAIN,cyccy.cn
 DOMAIN,cyclim.com
 DOMAIN,cyclobenzaprine.1.p2l.info
 DOMAIN,cyclobenzaprine.ourtablets.com
@@ -33741,6 +33745,7 @@ DOMAIN,ecadikenaz.com
 DOMAIN,ecai.info
 DOMAIN,ecapolefud.com
 DOMAIN,ecard4all.com
+DOMAIN,eccbb.com
 DOMAIN,eccehkho.com
 DOMAIN,ece8c2alhz.ru
 DOMAIN,ecefyu.geox.com
@@ -36130,6 +36135,7 @@ DOMAIN,exforgames.net
 DOMAIN,exgames.online
 DOMAIN,exgfnetwork.com
 DOMAIN,exgrafix.com
+DOMAIN,exgrao.cn
 DOMAIN,exgt.xyz
 DOMAIN,exhaustedannulmentaccredited.com
 DOMAIN,exhaustedgemini.com
@@ -40706,6 +40712,7 @@ DOMAIN,gard4mass.com
 DOMAIN,gardoult.com
 DOMAIN,gardourd.com
 DOMAIN,garean.vn
+DOMAIN,gareena.vn
 DOMAIN,garena-members.com
 DOMAIN,garena.fan
 DOMAIN,garera.vn
@@ -40787,6 +40794,7 @@ DOMAIN,gb0rd.com
 DOMAIN,gb686.cn
 DOMAIN,gbaseby.ru
 DOMAIN,gbbcraf.cn
+DOMAIN,gbcvbnv5.com
 DOMAIN,gbedccihjeajhchcaea.ru
 DOMAIN,gbeik.com
 DOMAIN,gbfe.top
@@ -45458,6 +45466,7 @@ DOMAIN,hangoutairbags.com
 DOMAIN,hanhaiedu.tech
 DOMAIN,hanhooo.cn
 DOMAIN,hanju18.net
+DOMAIN,hanjw1988.com
 DOMAIN,hanmiyong.com
 DOMAIN,hannist.com
 DOMAIN,hannode.xyz
@@ -55309,6 +55318,7 @@ DOMAIN,leeethical.com
 DOMAIN,leejongsuk.top
 DOMAIN,leeleo.top
 DOMAIN,leelightning.com
+DOMAIN,leelovelwj.com
 DOMAIN,leeryabdomencares.com
 DOMAIN,leerymeasurejam.com
 DOMAIN,leetaipt.net
@@ -68429,6 +68439,7 @@ DOMAIN,ojpweezvce.com
 DOMAIN,ojshdkfjlas.zhixianghuibao.com
 DOMAIN,ojskdjkf.mmlala.com
 DOMAIN,ojskdkjfsl.jufengputao.com
+DOMAIN,ojtqzxu.cn
 DOMAIN,ojwejqeqvxn.xyz
 DOMAIN,ojxgmgvpfad.top
 DOMAIN,ok-app.online
@@ -76592,6 +76603,7 @@ DOMAIN,rcm-images.amazon.com
 DOMAIN,rcm-it.amazon.it
 DOMAIN,rcm.shinobi.jp
 DOMAIN,rcmd.pop.ijinshan.com
+DOMAIN,rcnnqsd.cn
 DOMAIN,rconand.club
 DOMAIN,rcounter.rambler.ru
 DOMAIN,rcp.c.appier.net
@@ -76607,9 +76619,11 @@ DOMAIN,rctxczy.cn
 DOMAIN,rctxijo.cn
 DOMAIN,rctxiqx.cn
 DOMAIN,rctxjbv.cn
+DOMAIN,rctxlac.cn
 DOMAIN,rctxmbr.cn
 DOMAIN,rctxpks.cn
 DOMAIN,rctxprz.cn
+DOMAIN,rctxsbw.cn
 DOMAIN,rctxsrv.cn
 DOMAIN,rctxtjp.cn
 DOMAIN,rctxubn.cn
@@ -95946,6 +95960,7 @@ DOMAIN,tutonovip.com
 DOMAIN,tutorthing.com
 DOMAIN,tutula.biz
 DOMAIN,tutvp.com
+DOMAIN,tuuihea.top
 DOMAIN,tuvene.com
 DOMAIN,tuvvpas.com
 DOMAIN,tuwhuthoru.com
@@ -106510,6 +106525,7 @@ DOMAIN,xgcsr.com
 DOMAIN,xgdhmwbgilx.com
 DOMAIN,xgdhxgznp.com
 DOMAIN,xgefmxd.ru
+DOMAIN,xglryxd.cn
 DOMAIN,xgmc6lu8fs.me
 DOMAIN,xgogi.com
 DOMAIN,xgraph.net
@@ -106743,6 +106759,7 @@ DOMAIN,xiongdong.com
 DOMAIN,xiongyin.com
 DOMAIN,xiongzhangad.com
 DOMAIN,xiqgqftva.com
+DOMAIN,xiqqq.com
 DOMAIN,xiqvza.dickblick.com
 DOMAIN,xisea.top
 DOMAIN,xispmyctc.xyz
@@ -109463,6 +109480,7 @@ DOMAIN,zkc5.fleurancenature.fr
 DOMAIN,zkczbti.cn
 DOMAIN,zkczzltlhp6y.com
 DOMAIN,zkdkvnzsdxge.info
+DOMAIN,zkit.club
 DOMAIN,zkmhhr1fr79z.dictionary.basabali.org
 DOMAIN,zkmvjm.f1news.ru
 DOMAIN,zkqlyhwfn.com
