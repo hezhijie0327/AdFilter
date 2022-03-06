@@ -1,11 +1,11 @@
-# Checksum: MTY0NjQ0Mjk4Mgo=
+# Checksum: MTY0NjUyOTI1NQo=
 # Title: Zhijie's Ad Filter for Pi-hole (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.1-20220305-0
-# TimeUpdated: 2022-03-05T01:16:22+00:00
+# Version: 1.2.1-20220306-0
+# TimeUpdated: 2022-03-06T01:14:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 112701
+# Total: 112718
 0.nextyourcontent.com
 0.oldgyhogola.com
 0.r.msn.com
@@ -22834,6 +22834,7 @@ chengadx.com
 chengaib.net
 chengdahdf.cn
 chengduyiren.cn
+chenghe.store
 chengjie168.com.cn
 chengjunjie.top
 chengruide.com
@@ -26594,6 +26595,7 @@ cqerbihou.com
 cqfangduan.com
 cqfnvznw.info
 cqftonline.com
+cqfygc.xyz
 cqgya.com
 cqhciif9bjtplrc.ru
 cqhot.club
@@ -29937,6 +29939,7 @@ dddomainccc.com
 dddtv.xyz
 dddyun.com
 dde.jishengjc.com
+ddeyi.cn
 ddf.shumayin.com
 ddfcash.com
 ddfnmo6ev4fd.cloudfront.net
@@ -31490,6 +31493,7 @@ dlvjmr.cn
 dlwmksxohvw.com
 dlxgm.cn
 dlxrlc2ni2.com
+dlxxjsh.top
 dlyads.com
 dlyamedikov.ru
 dlyatizera.ru
@@ -39065,6 +39069,7 @@ foremangreek.com
 foremedia.net
 forensics1000.com
 forepresently.com
+foresig-market.biz
 forestbrowser.com
 foreventwithenwas.info
 forever-k.com.cn
@@ -46715,6 +46720,7 @@ haoweb.top
 haoxxwang.com
 haoyangmao.ltd
 haoyiwang.net
+haoyongdm.com
 haoyoushuo.cn
 haoyundm.com
 haoyundmn.com
@@ -48745,6 +48751,7 @@ hutabsolutionsubdivide.com
 hutawheglu.com
 huuyluwjkyd.xyz
 huyc.info
+huzalor.cn
 huzhanbin.cn
 huzhu.group
 hv.code.tanwanyx.com
@@ -52338,6 +52345,7 @@ iseuaa.olx.pl
 isgow.com
 ish.tumedia.no
 ishainsight.actonservice.com
+ishanggao.com
 isharemetric.rediff.com
 ishdjvedvls.xyz
 ishinomakicatering.web.fc2.com
@@ -53042,6 +53050,7 @@ jealousabstainhut.com
 jealouslacklesslackless.com
 jeanclementcom.us
 jeannemildconfusion.com
+jeason.club
 jebadu.com
 jebaziwhe.com
 jebb8hurt.com
@@ -64889,6 +64898,7 @@ mktlatam.adecco.com
 mktlife.trilliumwoodslcs.com
 mkto-ab410147.com
 mktoresp.com
+mkwndnfyqjxrw.com
 mkzpqu.sungboon.com
 ml-attr.com
 ml0z14azlflr.com
@@ -66560,6 +66570,7 @@ my1.ru
 my1fc.m.b5200.net
 my1fimg.m.b5200.net
 my2.hizliizlefilm.net
+my2.life
 my5058.com
 my83s1kw3u.com
 myactivestats.com
@@ -77548,6 +77559,7 @@ qrclevrfjw.com
 qrdeom.com
 qreport.qunar.com
 qrezvwhtppiv.com
+qrfladd.cn
 qrhlgdak.cn
 qring-tms.qq.com
 qriqiz.lifeisgood.com
@@ -78372,6 +78384,7 @@ rcv.moogos.com
 rcv.union-wifi.com
 rcvlink.com
 rcvlinks.com
+rcxocdfgvur.com
 rcyl-uni.com
 rcynoe.cn
 rd.adn.agrantsem.com
@@ -81987,6 +82000,7 @@ sanme2.taisantech.com
 sanmenxia.info
 sanmet.originenergy.com.au
 sanmiyangguang.com
+sanqian.press
 sanqianxingxuan.icu
 santa-case.fun
 santadrop.life
@@ -93170,6 +93184,7 @@ tck.photobox.com
 tck.transavia.com
 tckn-code.com
 tclicon5.ifmis.huan.tv
+tcmall.me
 tcmdz.com
 tcmsp.cn
 tcnmf.com
@@ -94275,6 +94290,7 @@ think.vyond.com
 thinkablefloor.com
 thinkablerice.com
 thinkabletrick.com
+thinkcode.cc
 thinkphp.pro
 thinktank.omfif.org
 thinktarget.com
@@ -105046,6 +105062,7 @@ wurtoosy.com
 wuseng.net
 wussucko.com
 wusths.com
+wutaixian.shop
 wutaszsuib.com
 wutipupi.xyz
 wuueqejuratzdz.com
@@ -108713,7 +108730,6 @@ wx16999.com
 wx61m0tmvh.com
 wxa.wxs.qq.com
 wxa79ef55c1a84e284.wx.ckjr001.com
-wxapp.lvyadx.cn
 wxas.ejwmc.cn
 wxb.wxbdfm.com
 wxbdfm.com
@@ -109375,6 +109391,7 @@ xiaoyaunbao.club
 xiaoyida.com
 xiaoyuanzuqiu.cn
 xiaoyutiao.com
+xiaozhangzhushou.ltd
 xiaozhen.com
 xiaozhige.xyz
 xiaozhuvideo.cn

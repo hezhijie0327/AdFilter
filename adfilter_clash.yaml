@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTY0NjQ0Mjk4Mgo=
+# Checksum: MTY0NjUyOTI1NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.1-20220305-0
-# TimeUpdated: 2022-03-05T01:16:22+00:00
+# Version: 1.2.1-20220306-0
+# TimeUpdated: 2022-03-06T01:14:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 112701
+# Total: 112718
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.oldgyhogola.com
   - DOMAIN,0.r.msn.com
@@ -22835,6 +22835,7 @@ payload:
   - DOMAIN,chengaib.net
   - DOMAIN,chengdahdf.cn
   - DOMAIN,chengduyiren.cn
+  - DOMAIN,chenghe.store
   - DOMAIN,chengjie168.com.cn
   - DOMAIN,chengjunjie.top
   - DOMAIN,chengruide.com
@@ -26595,6 +26596,7 @@ payload:
   - DOMAIN,cqfangduan.com
   - DOMAIN,cqfnvznw.info
   - DOMAIN,cqftonline.com
+  - DOMAIN,cqfygc.xyz
   - DOMAIN,cqgya.com
   - DOMAIN,cqhciif9bjtplrc.ru
   - DOMAIN,cqhot.club
@@ -29938,6 +29940,7 @@ payload:
   - DOMAIN,dddtv.xyz
   - DOMAIN,dddyun.com
   - DOMAIN,dde.jishengjc.com
+  - DOMAIN,ddeyi.cn
   - DOMAIN,ddf.shumayin.com
   - DOMAIN,ddfcash.com
   - DOMAIN,ddfnmo6ev4fd.cloudfront.net
@@ -31491,6 +31494,7 @@ payload:
   - DOMAIN,dlwmksxohvw.com
   - DOMAIN,dlxgm.cn
   - DOMAIN,dlxrlc2ni2.com
+  - DOMAIN,dlxxjsh.top
   - DOMAIN,dlyads.com
   - DOMAIN,dlyamedikov.ru
   - DOMAIN,dlyatizera.ru
@@ -39066,6 +39070,7 @@ payload:
   - DOMAIN,foremedia.net
   - DOMAIN,forensics1000.com
   - DOMAIN,forepresently.com
+  - DOMAIN,foresig-market.biz
   - DOMAIN,forestbrowser.com
   - DOMAIN,foreventwithenwas.info
   - DOMAIN,forever-k.com.cn
@@ -46716,6 +46721,7 @@ payload:
   - DOMAIN,haoxxwang.com
   - DOMAIN,haoyangmao.ltd
   - DOMAIN,haoyiwang.net
+  - DOMAIN,haoyongdm.com
   - DOMAIN,haoyoushuo.cn
   - DOMAIN,haoyundm.com
   - DOMAIN,haoyundmn.com
@@ -48746,6 +48752,7 @@ payload:
   - DOMAIN,hutawheglu.com
   - DOMAIN,huuyluwjkyd.xyz
   - DOMAIN,huyc.info
+  - DOMAIN,huzalor.cn
   - DOMAIN,huzhanbin.cn
   - DOMAIN,huzhu.group
   - DOMAIN,hv.code.tanwanyx.com
@@ -52339,6 +52346,7 @@ payload:
   - DOMAIN,isgow.com
   - DOMAIN,ish.tumedia.no
   - DOMAIN,ishainsight.actonservice.com
+  - DOMAIN,ishanggao.com
   - DOMAIN,isharemetric.rediff.com
   - DOMAIN,ishdjvedvls.xyz
   - DOMAIN,ishinomakicatering.web.fc2.com
@@ -53043,6 +53051,7 @@ payload:
   - DOMAIN,jealouslacklesslackless.com
   - DOMAIN,jeanclementcom.us
   - DOMAIN,jeannemildconfusion.com
+  - DOMAIN,jeason.club
   - DOMAIN,jebadu.com
   - DOMAIN,jebaziwhe.com
   - DOMAIN,jebb8hurt.com
@@ -64890,6 +64899,7 @@ payload:
   - DOMAIN,mktlife.trilliumwoodslcs.com
   - DOMAIN,mkto-ab410147.com
   - DOMAIN,mktoresp.com
+  - DOMAIN,mkwndnfyqjxrw.com
   - DOMAIN,mkzpqu.sungboon.com
   - DOMAIN,ml-attr.com
   - DOMAIN,ml0z14azlflr.com
@@ -66561,6 +66571,7 @@ payload:
   - DOMAIN,my1fc.m.b5200.net
   - DOMAIN,my1fimg.m.b5200.net
   - DOMAIN,my2.hizliizlefilm.net
+  - DOMAIN,my2.life
   - DOMAIN,my5058.com
   - DOMAIN,my83s1kw3u.com
   - DOMAIN,myactivestats.com
@@ -77549,6 +77560,7 @@ payload:
   - DOMAIN,qrdeom.com
   - DOMAIN,qreport.qunar.com
   - DOMAIN,qrezvwhtppiv.com
+  - DOMAIN,qrfladd.cn
   - DOMAIN,qrhlgdak.cn
   - DOMAIN,qring-tms.qq.com
   - DOMAIN,qriqiz.lifeisgood.com
@@ -78373,6 +78385,7 @@ payload:
   - DOMAIN,rcv.union-wifi.com
   - DOMAIN,rcvlink.com
   - DOMAIN,rcvlinks.com
+  - DOMAIN,rcxocdfgvur.com
   - DOMAIN,rcyl-uni.com
   - DOMAIN,rcynoe.cn
   - DOMAIN,rd.adn.agrantsem.com
@@ -81988,6 +82001,7 @@ payload:
   - DOMAIN,sanmenxia.info
   - DOMAIN,sanmet.originenergy.com.au
   - DOMAIN,sanmiyangguang.com
+  - DOMAIN,sanqian.press
   - DOMAIN,sanqianxingxuan.icu
   - DOMAIN,santa-case.fun
   - DOMAIN,santadrop.life
@@ -93171,6 +93185,7 @@ payload:
   - DOMAIN,tck.transavia.com
   - DOMAIN,tckn-code.com
   - DOMAIN,tclicon5.ifmis.huan.tv
+  - DOMAIN,tcmall.me
   - DOMAIN,tcmdz.com
   - DOMAIN,tcmsp.cn
   - DOMAIN,tcnmf.com
@@ -94276,6 +94291,7 @@ payload:
   - DOMAIN,thinkablefloor.com
   - DOMAIN,thinkablerice.com
   - DOMAIN,thinkabletrick.com
+  - DOMAIN,thinkcode.cc
   - DOMAIN,thinkphp.pro
   - DOMAIN,thinktank.omfif.org
   - DOMAIN,thinktarget.com
@@ -105047,6 +105063,7 @@ payload:
   - DOMAIN,wuseng.net
   - DOMAIN,wussucko.com
   - DOMAIN,wusths.com
+  - DOMAIN,wutaixian.shop
   - DOMAIN,wutaszsuib.com
   - DOMAIN,wutipupi.xyz
   - DOMAIN,wuueqejuratzdz.com
@@ -108714,7 +108731,6 @@ payload:
   - DOMAIN,wx61m0tmvh.com
   - DOMAIN,wxa.wxs.qq.com
   - DOMAIN,wxa79ef55c1a84e284.wx.ckjr001.com
-  - DOMAIN,wxapp.lvyadx.cn
   - DOMAIN,wxas.ejwmc.cn
   - DOMAIN,wxb.wxbdfm.com
   - DOMAIN,wxbdfm.com
@@ -109376,6 +109392,7 @@ payload:
   - DOMAIN,xiaoyida.com
   - DOMAIN,xiaoyuanzuqiu.cn
   - DOMAIN,xiaoyutiao.com
+  - DOMAIN,xiaozhangzhushou.ltd
   - DOMAIN,xiaozhen.com
   - DOMAIN,xiaozhige.xyz
   - DOMAIN,xiaozhuvideo.cn
