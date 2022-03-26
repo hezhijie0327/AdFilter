@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.1
+# Current Version: 1.2.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -105,6 +105,7 @@ function GetData() {
         "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
         "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"
+        "https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains"
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-edentw.txt"
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-mo.txt"
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad-pc.txt"
