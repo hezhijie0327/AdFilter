@@ -1,11 +1,11 @@
-! Checksum: MTY0ODI1NzczMQo=
+! Checksum: MTY0ODM0NDk0Mgo=
 ! Title: Zhijie's Ad Filter for Adblock (WEB-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.2.1-20220326-0
-! TimeUpdated: 2022-03-26T01:22:11+00:00
+! Version: 1.2.2-20220327-0
+! TimeUpdated: 2022-03-27T01:35:42+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 145685
+! Total: 145719
 ||0-bitbucket.net.zooplus.de^
 ||0-cdn.net.zooplus.de^
 ||0-firewall.net.zooplus.de^
@@ -825,6 +825,7 @@
 ||17gouwuba.com^
 ||17leyi.com^
 ||17tuozhai.com^
+||17u.cn^
 ||17un.co^
 ||17un.com^
 ||17youzi.com^
@@ -1966,6 +1967,7 @@
 ||4-csr41.net.daraz.com^
 ||4.4001075656.com^
 ||4.up.qingdaonews.com^
+||40017.cn^
 ||4004928.notify6.com^
 ||4006825178.com^
 ||4008813318.com.cn^
@@ -2281,6 +2283,7 @@
 ||51y5.net^
 ||51yes.com^
 ||51yhzp.com^
+||51yusi.xyz^
 ||51zdwy.cn^
 ||51zhuoyu.com^
 ||51zrtx.com^
@@ -2302,6 +2305,7 @@
 ||52ddc254575a.com^
 ||52fanyin.com^
 ||52homie.cn^
+||52jimi.top^
 ||52kmh.com^
 ||52kmk.com^
 ||52kp2.com^
@@ -4354,6 +4358,7 @@
 ||a34436.actonservice.com^
 ||a34549.actonservice.com^
 ||a34553.actonservice.com^
+||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^
 ||a353364ec1bd19a.com^
 ||a35415.actonservice.com^
 ||a35511.actonservice.com^
@@ -4617,6 +4622,7 @@
 ||a5a5a.com^
 ||a5e04df959f1af34.com^
 ||a5e2ef28b5.com^
+||a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com^
 ||a5ee094155.com^
 ||a5g.oves.biz^
 ||a5pub.com^
@@ -4695,6 +4701,7 @@
 ||a8.yuzen-official.com^
 ||a814.oadz.com^
 ||a8780.actonservice.com^
+||a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com^
 ||a882299d44.com^
 ||a8a8altrk.com^
 ||a8aspconv.ns-softbank-hikari.com^
@@ -6480,6 +6487,7 @@
 ||ad.esmplus.com^
 ||ad.eurosport.com^
 ||ad.eva.vn^
+||ad.everytime.kr^
 ||ad.evozi.com^
 ||ad.exyws.org^
 ||ad.f1cd.ru^
@@ -10511,6 +10519,7 @@
 ||ads.sun.com^
 ||ads.suomiautomaatti.com^
 ||ads.sup.com^
+||ads.superad.cc^
 ||ads.superonline.com^
 ||ads.supfast.net^
 ||ads.supplyframe.com^
@@ -12313,6 +12322,7 @@
 ||afawqvvy.xyz^
 ||afbanner.kinobomber3.online^
 ||afbcashidr.com^
+||afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com^
 ||afcontent.net^
 ||afcyhf.com^
 ||afd.baidu.cn^
@@ -29632,6 +29642,7 @@
 ||c.4pl1gr.cn^
 ||c.51xmgys.com^
 ||c.51y5.net^
+||c.52jimi.top^
 ||c.7times.top^
 ||c.8l8l.com^
 ||c.91wan.com^
@@ -31333,6 +31344,7 @@
 ||catshark.spur.design^
 ||catsnetwork.ru^
 ||catsupsfloit.com^
+||catsys.jp^
 ||cattle.ajyd.org.au^
 ||cattle.apisyouwonthate.com^
 ||cattle.domaincomet.com^
@@ -32694,6 +32706,7 @@
 ||ceztv.com^
 ||cf-ad.ad-stir.com^
 ||cf-ads.pinger.com^
+||cf-eba.everytime.kr^
 ||cf-native.karte.io^
 ||cf.37cs.com^
 ||cf.cdn.inmobi.com^
@@ -35653,6 +35666,7 @@
 ||cname.beeppool.org^
 ||cname.crank-in.net^
 ||cname.ebis.folio-sec.com^
+||cname.ebis.ne.jp^
 ||cname.finess.jp^
 ||cname.jaic-college.jp^
 ||cname.jf-d.jp^
@@ -42576,6 +42590,7 @@
 ||d0.xcar.com.cn^
 ||d00.sina.com.cn^
 ||d01.notifa.info^
+||d03.xyz^
 ||d03165aacb.com^
 ||d03x2011.com^
 ||d0efb7d9aeb478d.com^
@@ -46520,6 +46535,7 @@
 ||ddncow.impo.com^
 ||ddnkxmduab.xyz^
 ||ddnmbydtnfebyd.com^
+||ddns.dataunlocker.com^
 ||ddns.name^
 ||ddns.ne^
 ||ddnslive.com^
@@ -51396,6 +51412,7 @@
 ||dsnpj.shop^
 ||dsnr-affiliates.com^
 ||dsnrkqbeqbyu.com^
+||dsoizkd.cn^
 ||dsomethove.xyz^
 ||dsoxjxin5jji.controlconceptsusa.com^
 ||dsp-adcreative.mobshark.net^
@@ -53568,6 +53585,7 @@
 ||ef.opendsp.tanx.com^
 ||ef.tanx.com^
 ||ef9377.com^
+||ef9i.lo83cs.space^
 ||ef9i0f3oev47.com^
 ||efatik.me^
 ||efcnevmojvfs.com^
@@ -56495,6 +56513,7 @@
 ||exclusivepussy.com^
 ||exclusiverewards.xyz^
 ||excpm.com^
+||excsyrv.cn^
 ||excuseearthquake.com^
 ||excuseparen.com^
 ||exd4.destinia.com.au^
@@ -63108,6 +63127,7 @@
 ||ghnmg.top^
 ||gho.hamaya-corp.co.jp^
 ||gho.ysbjgjwh.com^
+||ghochv3eng.trafficmanager.net^
 ||ghooet.com^
 ||ghost-team.info^
 ||ghosthis.review^
@@ -69439,6 +69459,7 @@
 ||hnpxsm.com.cn^
 ||hnqhdnryukqko.com^
 ||hnruisheng.cn^
+||hnsyjaeger.site^
 ||hnsykly.cn^
 ||hnthink.vip^
 ||hntiantai.cn^
@@ -69989,6 +70010,7 @@
 ||hs-banner.com^
 ||hs-scripts.com^
 ||hs.avbdf.com^
+||hs.eloqua.com^
 ||hs.healthstream.com^
 ||hs.qhupdate.com^
 ||hs.sxyunyou.cn^
@@ -70993,6 +71015,7 @@
 ||ibloggers.ru^
 ||ibn.adnxs.com^
 ||ibnads.xl.co.id^
+||iboxs.xyz^
 ||ibpxl.com^
 ||ibpxl.net^
 ||ibreak.us^
@@ -77119,6 +77142,7 @@
 ||k.laredoute.es^
 ||k.laredoute.ru^
 ||k.ma.social-touch.com^
+||k.madmetrics.com^
 ||k.qzzxjc.com^
 ||k.rueducommerce.fr^
 ||k.streamrail.com^
@@ -82982,6 +83006,7 @@
 ||lwobol.cloud^
 ||lwozzk.legacy.com^
 ||lwq.wangketuan.com^
+||lwrao.afx001.pw^
 ||lwt940302.cn^
 ||lwv.net.zooplus.com^
 ||lww.hb.omtrdc.net^
@@ -93428,6 +93453,7 @@
 ||newscode.me^
 ||newscode.online^
 ||newscorpau.hb.omtrdc.net^
+||newscover.co.kr^
 ||newscredentialrelative.com^
 ||newscurrent.info^
 ||newscurve.com^
@@ -94021,6 +94047,7 @@
 ||nmctm.cn^
 ||nmetrics.boostmobile.com^
 ||nmetrics.samsungmobile.com^
+||nmgch.top^
 ||nmgpd.com^
 ||nmiodk.promiflash.de^
 ||nmlhkj.com^
@@ -110711,6 +110738,7 @@
 ||sc.5.p2l.info^
 ||sc.51teach.club^
 ||sc.58mingtian.cn^
+||sc.adobedc.net^
 ||sc.alwonroad.club^
 ||sc.cc.com^
 ||sc.chinaiiss.com^
@@ -110725,6 +110753,7 @@
 ||sc.haape.club^
 ||sc.hl.co.uk^
 ||sc.hm.com^
+||sc.hnsyjaeger.site^
 ||sc.iasds01.com^
 ||sc.independent.co.uk^
 ||sc.iombank.com^
@@ -110748,6 +110777,7 @@
 ||sc.nickelodeonarabia.com^
 ||sc.nickjr.co.uk^
 ||sc.nickjr.com^
+||sc.omtrdc.net^
 ||sc.pdss.xyz^
 ||sc.rbs.co.uk^
 ||sc.rvtlife.com^
@@ -127665,6 +127695,7 @@
 ||tracking.bonava.ru^
 ||tracking.bonava.se^
 ||tracking.bonnier.news^
+||tracking.bp01.net^
 ||tracking.bradyid.com^
 ||tracking.brandmentions.com^
 ||tracking.build.com^
@@ -130718,6 +130749,7 @@
 ||unta.cn^
 ||untaryes.online^
 ||untd.com^
+||untenable.wang^
 ||unthem.com^
 ||untidyquestion.com^
 ||untidyrice.com^
@@ -131640,6 +131672,7 @@
 ||v.1k978y.cn^
 ||v.4gpkf.cn^
 ||v.4pl1gr.cn^
+||v.52jimi.top^
 ||v.6dvip.com^
 ||v.76768hwj.cn^
 ||v.7times.top^
@@ -142300,6 +142333,7 @@
 ||xuujyppmhgyyhv.com^
 ||xuveiai.ru^
 ||xuwdejffxtxx.xyz^
+||xuwqs.iqn.world^
 ||xuxiangkj.com^
 ||xuxihoy.ru^
 ||xuyangwl.cn^
