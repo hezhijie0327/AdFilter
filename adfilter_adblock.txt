@@ -1,11 +1,11 @@
-! Checksum: MTY0ODM0NDk0Mgo=
+! Checksum: MTY0ODQzMTc0Mwo=
 ! Title: Zhijie's Ad Filter for Adblock (WEB-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.2.2-20220327-0
-! TimeUpdated: 2022-03-27T01:35:42+00:00
+! Version: 1.2.2-20220328-0
+! TimeUpdated: 2022-03-28T01:42:23+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 145719
+! Total: 145731
 ||0-bitbucket.net.zooplus.de^
 ||0-cdn.net.zooplus.de^
 ||0-firewall.net.zooplus.de^
@@ -22398,6 +22398,7 @@
 ||astuces-vip.com^
 ||astyk.cn^
 ||asu05mm.cn^
+||asukahan.xyz^
 ||asuler.ru^
 ||asumi.shinobi.jp^
 ||asundersimultaneously.com^
@@ -25156,6 +25157,7 @@
 ||baywttgdhe.do^
 ||baywttgdhe.download^
 ||bazenatuzu.com^
+||bazhangda.shop^
 ||bazhigu.com^
 ||bazinga.mse.sogou.com^
 ||bazinga12138.online^
@@ -43149,7 +43151,6 @@
 ||d2zjgamnymhp9w-customer.marketing.net.zooplus.fr^
 ||d2zjlj1vewrxcj.cloudfront.net^
 ||d2zm90ue88koyl.cloudfront.net^
-||d2znr2yi078d75.cloudfront.net^
 ||d2zur9cc2gf1tx.cloudfront.net^
 ||d3.mobaders.com^
 ||d3.sina.com.cn^
@@ -50788,6 +50789,7 @@
 ||dotaskins2you.com^
 ||dotaudiences.com^
 ||dotbanner.dk^
+||dotchaudou.com^
 ||dotcounter.douyutv.com^
 ||doterusksbomb.work^
 ||dothbognib.com^
@@ -59635,6 +59637,7 @@
 ||fperefo.ru^
 ||fpimttkfxrvgi.com^
 ||fpjs.io^
+||fpmaypyeegktq.com^
 ||fpmef.com^
 ||fppmnvrubgl.xyz^
 ||fpqlfuenw.xyz^
@@ -75140,6 +75143,7 @@
 ||j520s.gzcl999.cn^
 ||j5sq8.com^
 ||j6rudlybdy.com^
+||j6zh4g0.cn^
 ||j7182.hfxcsl.cn^
 ||j745s.com^
 ||j7rzxe098g5m.com^
@@ -76284,6 +76288,7 @@
 ||jph.itiexue.net^
 ||jphfifqvqrrsp.xyz^
 ||jpjmpqaupc.com^
+||jpjrkdtbnwc.com^
 ||jpkwk.top^
 ||jpmpuxglivupwy.com^
 ||jponmlkj.carte-gr.total.fr^
@@ -83026,6 +83031,7 @@
 ||lxgjni.lcwaikiki.eg^
 ||lxgmgalmrxqlj.xyz^
 ||lxhjaq.cn^
+||lxiaoxin.com^
 ||lximpcoylqfarmt.com^
 ||lxiu.shop^
 ||lxjgbjvmmop.com^
@@ -87629,8 +87635,6 @@
 ||mega-pics-money.ru^
 ||mega-polza.ru^
 ||mega-stats.com^
-||mega.folkbladet.nu^
-||mega.vk.se^
 ||mega1.yeah1.com^
 ||megaad.nz^
 ||megaban.com.ua^
@@ -102441,6 +102445,7 @@
 ||primusbelgium.com^
 ||princedrainclearance.com^
 ||princided.club^
+||principles.wang^
 ||principlessilas.com^
 ||pringed.space^
 ||print-picture.com^
@@ -108912,6 +108917,7 @@
 ||rreboleldfjpet.com^
 ||rrgapzw.cn^
 ||rrimpl.com^
+||rrlafphbrpazu.com^
 ||rrogfhs.cn^
 ||rrolawcats2bsl4b.in.net^
 ||rrr.youle55.com^
@@ -109391,6 +109397,7 @@
 ||rzhcdnsl.com^
 ||rzhujam.com^
 ||rzjirk.com^
+||rzjslm.com^
 ||rzlib.net^
 ||rzoevr.qvc.de^
 ||rzqctiudsvb.com^
@@ -116671,6 +116678,7 @@
 ||smetrix.avon.uk.com^
 ||smetrix.youravon.com^
 ||smfiyoixskporks.com^
+||smgjupy.cn^
 ||smgru.net^
 ||smh.ink^
 ||smi-inform.ru^
@@ -125293,6 +125301,7 @@
 ||thunderbird.es^
 ||thunderhead.com^
 ||thunderingrose.com^
+||thundersoft.top^
 ||thurag.com^
 ||thurnflfant.com^
 ||thusenteringhypocrisy.com^
@@ -131357,6 +131366,7 @@
 ||ustausoo.com^
 ||ustithoo.net^
 ||ustxsntseyhwsx.com^
+||usually.wang^
 ||usuallycrummy.com^
 ||usualmedia.com^
 ||usuarios-online.com^
@@ -134102,6 +134112,7 @@
 ||wangzhenzhi.cn^
 ||wangzhichao.info^
 ||wangzibo.top^
+||wangzj.top^
 ||waninusty.com^
 ||wannacrydecryptor.com^
 ||wannianli.bayimob.com^
@@ -143692,6 +143703,7 @@
 ||yueduyy.com^
 ||yuegepiano.cn^
 ||yueleshenghuo.cn^
+||yueli.me^
 ||yueli101.xyz^
 ||yuepao.in^
 ||yuesenshangmao.cn^
