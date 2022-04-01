@@ -1,11 +1,11 @@
-! Checksum: MTY0ODY5MDU0NAo=
+! Checksum: MTY0ODc3NzY5Nwo=
 ! Title: Zhijie's Ad Filter for Adblock (WEB-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.2.2-20220331-0
-! TimeUpdated: 2022-03-31T01:35:44+00:00
+! Version: 1.2.2-20220401-0
+! TimeUpdated: 2022-04-01T01:48:17+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 121614
+! Total: 121644
 ||0-bitbucket.net.zooplus.de^
 ||0-cdn.net.zooplus.de^
 ||0-firewall.net.zooplus.de^
@@ -919,7 +919,6 @@
 ||17u.cn^
 ||17un.co^
 ||17un.com^
-||17youzi.com^
 ||17ys.top^
 ||17zhaole.com^
 ||17zheng.cn^
@@ -1496,6 +1495,7 @@
 ||293870.com^
 ||2969firefighterstore.com^
 ||297772.com^
+||2999.store^
 ||29ae58661b9c7178.com^
 ||29bca6cb72a665c8.se^
 ||29d65cebb82ef9f.com^
@@ -3555,6 +3555,7 @@
 ||9270.com.cn^
 ||92caijing.com^
 ||92ec94d51076357.com^
+||92lottery.com^
 ||92mile.com^
 ||92qj1u.cn^
 ||92sales.com^
@@ -19902,6 +19903,7 @@
 ||bestadbid.com^
 ||bestadder.com^
 ||bestadlinks.ru^
+||bestadload.com^
 ||bestadmax.com^
 ||bestandroidhacks.com^
 ||bestapps4ever172.download^
@@ -24565,6 +24567,7 @@
 ||cdn.ggsfq.com^
 ||cdn.goldclick.xyz^
 ||cdn.gtrd.xyz^
+||cdn.haocaa.com^
 ||cdn.hauleddes.com^
 ||cdn.hbplatform.com^
 ||cdn.hdat.xyz^
@@ -28447,6 +28450,7 @@
 ||connees.com^
 ||connexity.net^
 ||connexplace.com^
+||connext-cdn.azureedge.net^
 ||connextra.com^
 ||connexuscu.actonservice.com^
 ||conqueredcousin.com^
@@ -29058,6 +29062,7 @@
 ||cornopeansilkiness.xyz^
 ||cornplus.cn^
 ||coro.benbaisteel.com^
+||corona999.com^
 ||coroplastsheet.cn^
 ||corp-downloads.com^
 ||corp-marketing-get.net.zooplus.fr^
@@ -33394,6 +33399,7 @@
 ||ddkbxqvf.com^
 ||ddkkrrla.m.qxs.la^
 ||ddl.3g567.com^
+||ddla593ymz72o.cloudfront.net^
 ||ddlesswale.co^
 ||ddlh1467paih3.cloudfront.net^
 ||ddlobrcdoij.com^
@@ -33962,6 +33968,7 @@
 ||deu-lim-c1-s2.inf.nimiq.network^
 ||deu-lim-c2-s1.inf.nimiq.network^
 ||deu-lim-c2-s2.inf.nimiq.network^
+||deulderby.com^
 ||deut1.fdj.fr^
 ||deuted.com^
 ||dev-admin.net.zooplus.fr^
@@ -38490,6 +38497,7 @@
 ||eeeap.cn^
 ||eeeqi.cn^
 ||eeewax.de^
+||eef.51dmn.top^
 ||eeftordu.net^
 ||eefxjexuwls.com^
 ||eeghegak.com^
@@ -40644,6 +40652,7 @@
 ||events.tubecup.org^
 ||events.turbosquid.com^
 ||events.tvtime.com^
+||events.virtusize.jp^
 ||events.whisk.com^
 ||events.yourcx.io^
 ||events3.adcolony.com^
@@ -41256,6 +41265,7 @@
 ||f8272.com^
 ||f853150605ccb.com^
 ||f87b88d3649456.com^
+||f8bet0.com^
 ||f8ij9.life^
 ||f8phvntohv.tpetry.me^
 ||f92j5.com^
@@ -47109,6 +47119,7 @@
 ||gldsta-02-or.com^
 ||gleamingtrade.com^
 ||gleaminist.info^
+||glebypraiss.com^
 ||glecmaim.net^
 ||gleebsex.net^
 ||gleechie.net^
@@ -54173,6 +54184,7 @@
 ||iguana.delbaoliveira.com^
 ||iguana.notifi.to^
 ||iguana.thesubtimes.com^
+||igusoft.com^
 ||igverify.me^
 ||igvuw.com^
 ||igvxnenqgu.com^
@@ -57713,6 +57725,7 @@
 ||jd05esxdnre.info^
 ||jdb.jiudingcapital.cn^
 ||jdb.jiudingcapital.com^
+||jdb66.vip^
 ||jdbzurmhiixqm.com^
 ||jdclredir.com^
 ||jdd01.198game.net^
@@ -64057,6 +64070,7 @@
 ||lqsw3.top^
 ||lqunionsoft.top^
 ||lqw.me^
+||lr-in.com^
 ||lr-ingest.io^
 ||lr96.top^
 ||lraa.xiaoniutui.com^
@@ -70106,6 +70120,7 @@
 ||milotree.com^
 ||milparota.com^
 ||miltauru.net^
+||miludata.com^
 ||milyondolar.com^
 ||mimeihui.com^
 ||mimg.126.net^
@@ -70505,6 +70520,7 @@
 ||mjlsiopjesbn.com^
 ||mjlunalaw.com^
 ||mjmobi.com^
+||mjnakecyospspgf.com^
 ||mjnpya.marktplaats.nl^
 ||mjnxku.com^
 ||mjonkers.nl^
@@ -79881,6 +79897,7 @@
 ||pic.51yes.com^
 ||pic.5211game.com^
 ||pic.adeaz.com^
+||pic.adver.com.tw^
 ||pic.bdyxzx.com^
 ||pic.bloggerads.net^
 ||pic.by175.com^
@@ -83984,6 +84001,7 @@
 ||qeyps.com^
 ||qezfer.motelamiio.com^
 ||qfbles.elefant.ro^
+||qfcdgy.cn^
 ||qfcrjdrp.com^
 ||qfdn3gyfbs.com^
 ||qfdzba.sport-schuster.de^
@@ -84306,7 +84324,6 @@
 ||qpzsh.cn^
 ||qq.8368661.com^
 ||qq.guansenff.cn^
-||qq.hixili.top^
 ||qq.irs01.com^
 ||qq.m.cn.miaozhen.com^
 ||qq.vvx.highter.top^
@@ -88200,7 +88217,6 @@
 ||s.thespec.com^
 ||s.thestar.com^
 ||s.think.cn.maysunmedia.com^
-||s.tjys88.com^
 ||s.tkm.ink^
 ||s.toronto.com^
 ||s.toyotafinancial.com^
@@ -91426,6 +91442,7 @@
 ||shawtelevision.hb.omtrdc.net^
 ||shawuh2a8nyam09.com^
 ||shaxiq.com^
+||shbet0.com^
 ||shbmymhkwsaskje.xyz^
 ||shcy3.com^
 ||shcylxl.com^
@@ -91509,6 +91526,7 @@
 ||shift.oferty-kredytowe.pl^
 ||shiftintercoursebridge.com^
 ||shifty-hack.com^
+||shigl.top^
 ||shigopo.ru^
 ||shiguangyx.cn^
 ||shihoult.com^
@@ -92077,6 +92095,7 @@
 ||simplexdrop.com^
 ||simpleywel.fun^
 ||simpli.fi^
+||simpliftsbefore.info^
 ||simplisticnose.com^
 ||simplisticstem.com^
 ||simplo.gg^
@@ -94479,6 +94498,7 @@
 ||sminerva.healthcentral.com^
 ||sminewsnet.ru^
 ||smiru.ru^
+||smised.com^
 ||smitegemsgiveaway.com^
 ||smithylampong.com^
 ||smitionsory.co^
@@ -96154,6 +96174,7 @@
 ||ssdsss.top^
 ||ssers.xyz^
 ||ssettoourm.com^
+||ssf.51dmn.top^
 ||ssfiles.com^
 ||ssfllp.actonservice.com^
 ||ssgg.chazidian.com^
@@ -100695,6 +100716,7 @@
 ||taobc.com^
 ||taobeike.com^
 ||taobso.cn^
+||taocangjituan.com^
 ||taoggou.com^
 ||taogou.site^
 ||taoguanda.com^
@@ -101987,6 +102009,7 @@
 ||thepam.cn^
 ||thepayporn.com^
 ||thepiratebay.cr^
+||thepiratebay.wtf^
 ||thepiratetrader.com^
 ||theplayadvisor.com^
 ||thepopads.com^
@@ -103136,8 +103159,10 @@
 ||top777.ariom.ru^
 ||top88.club^
 ||top88.fun^
+||top88.me^
 ||top88.uk^
 ||top88.us^
+||top88.vn^
 ||top888.com^
 ||topacity.info^
 ||topad.mobi^
@@ -108116,6 +108141,7 @@
 ||uttermosthobbies.com^
 ||utteroccupied.com^
 ||uttium.com^
+||utuypsohjvuf.com^
 ||utxdfwxkgdkfghf.com^
 ||utxdtismojqk.xyz^
 ||uu.85655095.com^
@@ -109836,6 +109862,7 @@
 ||vnq53.com^
 ||vnq73.com^
 ||vnq8.bet^
+||vnq8.com^
 ||vnr81.com^
 ||vnr82.com^
 ||vnr83.com^
@@ -110562,6 +110589,7 @@
 ||wake.chinaerman.com^
 ||wakeacsyfackrhl.com^
 ||wakefulcook.com^
+||wakiupswacken.com^
 ||wal.wolfram.com^
 ||waladon.com^
 ||walasearch.com^
@@ -113749,7 +113777,6 @@
 ||www.17chezhan.com^
 ||www.17gouwuba.com^
 ||www.17un.com^
-||www.17youzi.com^
 ||www.17zhaole.com^
 ||www.188api.com^
 ||www.189zj.cn^
@@ -119227,6 +119254,7 @@
 ||yhjgjk.wemakeup.it^
 ||yhjzg.cn^
 ||yhkiain.cn^
+||yhkt.online^
 ||yhmceakev.com^
 ||yhpknxzspo8a.kvest.ee^
 ||yhsmk.com^
@@ -119281,6 +119309,7 @@
 ||yieldtraffic.com^
 ||yieldx.com^
 ||yierheng.top^
+||yifenghuyu.com^
 ||yifuffbypvps.xyz^
 ||yifuls.com^
 ||yify.tv^
@@ -119585,6 +119614,7 @@
 ||yonhelioliskor.com^
 ||yonomastara.com^
 ||yonsandileer.com^
+||yonxatuor.com^
 ||yoo.yiiyoo.net^
 ||yoobest.cn^
 ||yoochoose.net^
