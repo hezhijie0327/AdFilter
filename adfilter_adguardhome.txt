@@ -1,11 +1,11 @@
-! Checksum: MTY0OTU1NDgzNwo=
+! Checksum: MTY0OTY0MTMxNgo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.2.2-20220410-0
-! TimeUpdated: 2022-04-10T01:40:37+00:00
+! Version: 1.2.2-20220411-0
+! TimeUpdated: 2022-04-11T01:41:56+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 123801
+! Total: 123819
 |0-bitbucket.net.zooplus.de^
 |0-cdn.net.zooplus.de^
 |0-firewall.net.zooplus.de^
@@ -956,6 +956,7 @@
 |15.authorization.summer.net.daraz.com^
 |15.net.zooplus.it^
 |15.taboola.com^
+|150075.com^
 |1503.net^
 |1506527e41.com^
 |151c1501b0fa.com^
@@ -2270,6 +2271,7 @@
 |395e27cfc83ea88f.com^
 |3961386.notify6.com^
 |3969aa67d1.com^
+|396f4a512a.com^
 |3973252.notify6.com^
 |3975710.notify6.com^
 |3975lm.com^
@@ -4050,6 +4052,7 @@
 |9ad16721d9d5c56.com^
 |9ads.mobi^
 |9ads.net^
+|9af7e8a8cc.com^
 |9amq5z4y1y.com^
 |9b0v.cn^
 |9c1g.cn^
@@ -6979,6 +6982,7 @@
 |ad-hn.24hstatic.com^
 |ad-hub.biz^
 |ad-img.diyidan.net^
+|ad-img.ebaykorea.com^
 |ad-indicator.com^
 |ad-locus.com^
 |ad-log.dable.io^
@@ -8384,6 +8388,7 @@
 |adgainersolutions.com^
 |adgamble.net^
 |adgardener.com^
+|adgate.gmarket.co.kr^
 |adgatemedia.com^
 |adgear.com^
 |adgebra.co.in^
@@ -10164,7 +10169,6 @@
 |ads.nepszava.com^
 |ads.nerve.com^
 |ads.netbul.com^
-|ads.netinsight.co.kr^
 |ads.netlinkad.vn^
 |ads.networksolutions.com^
 |ads.networkwcs.net^
@@ -14801,6 +14805,7 @@
 |aniruyt.ru^
 |aniview.com^
 |anizedglittledisco.info^
+|ankexper.fun^
 |ankieta-online.pl^
 |ankingwit.one^
 |anklets.shengen.ru^
@@ -19591,6 +19596,7 @@
 |bb2022.info^
 |bb4cf48126aab4.com^
 |bbaahc.com^
+|bbaannrr11.com^
 |bbagnw.sedaily.com^
 |bbbazlp.cn^
 |bbbb.goace.jp^
@@ -24093,6 +24099,7 @@
 |calhacks.org^
 |caligula.pro^
 |caliskankoylu.com^
+|calistabeverly.com^
 |call-ad-network-api.marchex.com^
 |call-mlcrosoftnw-err92789307.win^
 |call-tracking.by^
@@ -24494,6 +24501,7 @@
 |carnegienet.net^
 |caroda.io^
 |carolina.actonservice.com^
+|carolinebeverly.com^
 |carolinecar.com^
 |carotolbhavan.com^
 |carp.getgift.me^
@@ -26401,6 +26409,7 @@
 |chip-skins.com^
 |chip2gift.com^
 |chipleader.com^
+|chipmanksmochus.com^
 |chipmunk.crestedbuttejobs.com^
 |chipsleapt.com^
 |chipsuziby.com^
@@ -27907,6 +27916,7 @@
 |cmp.tech426.com^
 |cmp.tek.no^
 |cmp.telerama.fr^
+|cmp.tori.fi^
 |cmp.trouw.nl^
 |cmp.tvspielfilm.de^
 |cmp.uniconsent.com^
@@ -35166,7 +35176,6 @@
 |diamondores.com^
 |diamondtraff.com^
 |diamongs.com^
-|diampokusy.com^
 |dian500.com^
 |dian5000.com^
 |diandongchetoukui.com^
@@ -37709,6 +37718,7 @@
 |dyino.com^
 |dyjfmidfagucby.com^
 |dylanwong.com^
+|dylenura.xyz^
 |dymic.actonservice.com^
 |dymlo6ffhj97l.cloudfront.net^
 |dymwsh1c2kslr.cloudfront.net^
@@ -72604,6 +72614,7 @@
 |mobnumbers.com^
 |moboland.net^
 |mobon.com^
+|mobon.net^
 |mobondhrd.appspot.com^
 |moborobot.com^
 |mobotoolpush.moboapps.io^
@@ -74997,6 +75008,7 @@
 |netincap.com^
 |netinsight.co.kr^
 |netizen.co^
+|netkantu.com^
 |netliker.com^
 |netloader.cc^
 |netmera-web.com^
@@ -76964,6 +76976,7 @@
 |ntvpinp.com^
 |ntvpwpush.com^
 |ntvsw.com^
+|ntwaafv.cn^
 |ntzfly.cn^
 |nuaaad.cn^
 |nuanqipian.pw^
@@ -77083,6 +77096,7 @@
 |nvmsa.top^
 |nvoepbzqtn.com^
 |nvpdaa.brightcellars.com^
+|nvqonvfylkxdjc.com^
 |nvqsjdvgqnyk.com^
 |nvrblk.xyz^
 |nvrdwsqiesgbd.com^
@@ -77603,6 +77617,7 @@
 |octopusgirl.com^
 |octopuspop.com^
 |octozoon.org^
+|ocubafyv.xyz^
 |ocuf.pzuth.cn^
 |oculussoft.net^
 |ocwlhv.ecid.com.br^
@@ -85405,6 +85420,7 @@
 |pushnice.com^
 |pushno.com^
 |pushnotifications.click^
+|pushnott.com^
 |pushochenk.com^
 |pushokey.com^
 |pusholympus.com^
@@ -91427,6 +91443,7 @@
 |schermaschine.mgmt.docker.2lab.net.zooplus.de^
 |schicksalnvi.cn^
 |schjmp.com^
+|schlaftabletten.cn^
 |scholarshipidol.com^
 |schoolyeargo.com^
 |schoorsteen.geenstijl.nl^
@@ -91805,6 +91822,7 @@
 |sdtieta.com^
 |sdu.adwo.com^
 |sdual.plgfzyp.cn^
+|sduptpppm.com^
 |sdurhnd.com^
 |sdv-m.ru^
 |sdv-shop.ru^
@@ -101562,7 +101580,6 @@
 |suyuexs.cdn.bcebos.co^
 |suyuexs.cdn.bcebos.com^
 |suzanne.pro^
-|suzihaza.com^
 |sv-api-event.headlines.pw^
 |sv-api-lottery.headlines.pw^
 |sv-pr.ru^
@@ -112349,6 +112366,7 @@
 |vqlrwgj.cn^
 |vqnabcfeckjrraw.com^
 |vqnqrs53.com^
+|vqnqrs54.com^
 |vqp3.madeindesign.co.uk^
 |vqq.admaster.com.cn^
 |vqr3jeu1qi41.com^
