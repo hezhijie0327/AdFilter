@@ -1,11 +1,11 @@
-# Checksum: MTY1MDA3MzAxNQo=
+# Checksum: MTY1MDE1OTc1Mwo=
 # Title: Zhijie's Ad Filter for Pi-hole (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.2-20220416-0
-# TimeUpdated: 2022-04-16T01:36:55+00:00
+# Version: 1.2.2-20220417-0
+# TimeUpdated: 2022-04-17T01:42:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 125303
+# Total: 125321
 0-bitbucket.net.zooplus.de
 0-cdn.net.zooplus.de
 0-firewall.net.zooplus.de
@@ -3346,6 +3346,7 @@
 6086k9fa9vchi341.net.daraz.com
 60999.cn
 60ads.com
+60d4631eb3.com
 61.adsina.allyes.com
 61.net.daraz.com
 61165.com
@@ -3651,6 +3652,7 @@
 746fyw2v.com
 749808.com
 74adf02407.com
+74b1447c32.com
 75.net.daraz.com
 75.net.zooplus.fr
 7500.com
@@ -4686,6 +4688,7 @@ a.gayvideo.me
 a.gedidigital.it
 a.gerasopa.com
 a.getaawp.com
+a.getflowbox.com
 a.getgamers.eu
 a.getter.ns.emailvision.net.zooplus.it
 a.glcdn.co
@@ -13947,6 +13950,7 @@ altg.widerplanet.com
 altitude-arena.com
 altitudedigital.com
 altmarketing.net.daraz.com
+altmetric.com
 altogethergreedy.com
 altopd.com
 altowriestwispy.com
@@ -14648,6 +14652,7 @@ analytics.nordea.fi
 analytics.nordea.no
 analytics.nordea.se
 analytics.oceanengine.com
+analytics.okazii.ro
 analytics.omniscientai.com
 analytics.oneplus.cn
 analytics.onesearch.id
@@ -17073,7 +17078,6 @@ as.nidongme.com
 as.otto.de
 as.payback.it
 as.rollingstone.de
-as.saechsische.de
 as.saiglobal.com
 as.sexad.net
 as.stat.su
@@ -17412,7 +17416,6 @@ assets1.vero.com.au
 assetsail.net.zooplus.de
 assetsarketing.net.zooplus.it
 assetscar40.net.daraz.com
-assetscdn.stream
 assetscs-utils-rtr.net.daraz.com
 assetscsr11.net.zooplus.de
 assetscsr41.net.daraz.com
@@ -24315,6 +24318,7 @@ caijingzz.cn
 caikouli.com
 caing.adsame.com
 cairalei.com
+caishenbaoyou.top
 caiteesh.net
 caithamo.net
 caiwanhui.top
@@ -25820,6 +25824,7 @@ cebupsefi.com
 cec-formation.2017.net.daraz.com
 cec-formation.april.net.daraz.com
 cecash.com
+ceciliabeverly.com
 cecive.com
 cecokfkn.xyz
 ced.sascdn.com
@@ -27048,6 +27053,7 @@ cjtsnykfedv.top
 cjv2gt.cn
 cjvdfw.com
 cjwyvwbxpbo.com
+cjy200107152004.ltd
 cjyjqw.cn
 ck-cdn.com
 ck.1o26.com
@@ -28178,6 +28184,7 @@ cmop.mgtv.com
 cmp-loader.choice.faktor.io
 cmp-sp.wiwo.de
 cmp.acronymfinder.com
+cmp.cdn.thesun.co.uk
 cmp.cdn.thesun.ie
 cmp.cdntrf.com
 cmp.cls.pm
@@ -28205,7 +28212,6 @@ cmp.nouvelobs.com
 cmp.optad360.io
 cmp.pafo.fairbung.com
 cmp.parkers.co.uk
-cmp.parool.nl
 cmp.pcwelt.de
 cmp.pcworld.pl
 cmp.playpilot.com
@@ -28214,7 +28220,6 @@ cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
 cmp.tori.fi
-cmp.trouw.nl
 cmp.tvspielfilm.de
 cmp.uniconsent.com
 cmp.vidcoin.com
@@ -35857,6 +35862,7 @@ dilvehoammp.com
 dimedontisar.cam
 dimensionfunding.actonservice.com
 dimensionhatefulstricken.com
+dimensions.ai
 dimensions.mappy.com
 dimeprice.com
 dimeromaean.com
@@ -37421,6 +37427,7 @@ dp25.kr
 dp3.play.aiseet.atianqi.com
 dp3.play.t002.ottcn.com
 dp3.qq.com
+dp64mxip2za0c.cloudfront.net
 dpallyihgtgu.com
 dpb3g4kqr8xz.cloudfront.net
 dpbyc.com
@@ -37601,6 +37608,7 @@ dreampartners.ru
 dreamrecord.cn
 dreamsadnetwork.com
 dreamsaukn.co
+dreamsky.xin
 dreamteaser.ru
 dreamvoz.net.zooplus.nl
 dreamware.com.cn
@@ -38529,7 +38537,6 @@ e.duomeng.org
 e.dxmci.com
 e.dydd.xyz
 e.e.themighty.com
-e.e7001.com
 e.e70123.com
 e.e708.net
 e.ediun.com
@@ -42664,6 +42671,7 @@ ezreward.net
 ezrvmxshalr.com
 ezskins.trade
 ezskinz.org
+ezstat.ru
 eztnezdmeg.net
 eztrck.com
 ezula.com
@@ -46073,6 +46081,7 @@ frodotrade.com
 frodx.com
 frofanvied.com
 frog.jamesbliss.com
+frog.wix.com
 frog.yuanfudao.com
 frog9alea.com
 frogadvert.ru
@@ -46266,6 +46275,7 @@ ftptiny.com
 ftrack.ru
 ftrnum.club
 ftte.fun
+ftte.xyz
 fttwin.icu
 ftuart.chomedeynissan.com
 ftv-publicite.fr
@@ -54550,6 +54560,7 @@ hpd.baidu.cn
 hpd.baidu.com
 hpdeskjet3630.com
 hpdtsr.com
+hpejlsb.com
 hpgrnwexrfud.xyz
 hphmhack.com
 hphmildxidcvxd.com
@@ -59045,6 +59056,7 @@ ivuuyvajp.com
 ivwbox.de
 ivwfypkvdfdmvk.com
 ivwvvtr.cn
+ivx.lacompagnie.com
 ivy.pcauto.com.cn
 ivy.pcbaby.com.cn
 ivy.pchouse.com.cn
@@ -68797,6 +68809,7 @@ mappingdo.net
 mapuchesystem.com
 mapupdatezone.com
 mapxiongan.cn
+maqiang520.online
 maquiags.com
 mar.vip.com
 marapcana.online
@@ -81564,6 +81577,7 @@ partner-ts.groupon.net
 partner-ts.groupon.nl
 partner-ts.groupon.pl
 partner-users.net.daraz.com
+partner-widget.vse-sdal.com
 partner-www.applications.net.daraz.com
 partner.2012.net.daraz.com
 partner.accesstrade.vn
@@ -83612,7 +83626,6 @@ play-services.com
 play-vids.com
 play-voice.com
 play.alt.indigital.lt
-play.anyclip.com
 play.anyname.zelfo.pw
 play.assets.shentaiesp.asia
 play.besstahete.info
@@ -87317,6 +87330,7 @@ qnudcjkud.xyz
 qnvljz.info
 qo26.com
 qo4nkz03dy.cn
+qoaaa.com
 qocvicklgcgr.com
 qoevjugu.com
 qogbgxne.com
@@ -87363,7 +87377,6 @@ qpxohp.com
 qpzsh.cn
 qq.8368661.com
 qq.guansenff.cn
-qq.hixili.top
 qq.irs01.com
 qq.m.cn.miaozhen.com
 qq.net.zooplus.de
@@ -88558,6 +88571,7 @@ realjs.info
 realkeygen.com
 reallblog.info
 reallblog.net
+reallyfreegeoip.org
 realm.hearst3pcc.com
 realmatch.com
 realmedia-a800.d4p.net
@@ -103799,7 +103813,6 @@ t.uc.cn
 t.ucirvinesports.com
 t.ujian.cc
 t.umterps.com
-t.unbounce.com
 t.und.com
 t.update.fbsbx.com
 t.usctrojans.com
@@ -106257,6 +106270,7 @@ tkvgtsbreb.com
 tkvied.levi.com.my
 tkvxdj.cars.com
 tkweb.baidu.com
+tkx.mp.lura.live
 tkxiavegstgq.com
 tkykzv.polisorb.com
 tl.oneway.mobi
@@ -106751,6 +106765,7 @@ tophippo.vlion.cn
 tophirek.hu
 tophitbit.com
 tophits4u.de
+tophosting101.com
 tophot-news.com
 tophotbanan.com
 topiaserv.net
@@ -110378,6 +110393,7 @@ udalmanresuit.com
 udarem.com
 udash.umengcloud.com
 udata.mixmarket.biz
+udbaa.com
 udbcujnoqhxql.com
 udbdf-v2.nimo.tv
 udc.msn.com
@@ -118421,6 +118437,7 @@ www.effirst.cn
 www.effirst.com
 www.eflbruwqt.ru
 www.efvrgb12.com
+www.efzfcwxjvoentetjwhvuiuqbeyjkubrt.com
 www.ela-3-tnk.com
 www.electroneum.crypto-webminer.com
 www.elite-s001.com
@@ -122136,6 +122153,7 @@ xqiyi.top
 xqjxuo.fuelforfans.com
 xqkwotrkscupex.xyz
 xqkzsifxgv.com
+xqprjjcgk.com
 xqtcur.kirklands.com
 xqtzp.cn
 xquad.su
