@@ -1,11 +1,11 @@
-! Checksum: MTY1MDE1OTc1Mwo=
+! Checksum: MTY1MDI0NjkwNQo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.2.2-20220417-0
-! TimeUpdated: 2022-04-17T01:42:33+00:00
+! Version: 1.2.2-20220418-0
+! TimeUpdated: 2022-04-18T01:55:05+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 125321
+! Total: 125347
 |0-bitbucket.net.zooplus.de^
 |0-cdn.net.zooplus.de^
 |0-firewall.net.zooplus.de^
@@ -6475,6 +6475,7 @@
 |ac.laonanren.com^
 |ac.miovp.com^
 |ac.mmstat.com^
+|ac.prism-world.jp.net^
 |ac.rnm.ca^
 |ac.saisoncard.co.jp^
 |ac0c95f18a59.com^
@@ -13950,7 +13951,6 @@
 |altitude-arena.com^
 |altitudedigital.com^
 |altmarketing.net.daraz.com^
-|altmetric.com^
 |altogethergreedy.com^
 |altopd.com^
 |altowriestwispy.com^
@@ -15280,6 +15280,7 @@
 |aoasnidcvnorf.xyz^
 |aobde.com^
 |aocular.com^
+|aod-image-material.cdn.bcebos.com^
 |aodepuo.cn^
 |aodongjiaosu.com^
 |aohuwj.com^
@@ -18124,6 +18125,7 @@
 |avantifinance.actonservice.com^
 |avapartner.com^
 |avapp.tv^
+|avased6.com^
 |avastats.com^
 |avatarsgreat.com^
 |avatraffic.com^
@@ -18275,6 +18277,7 @@
 |awogtl.1stopbedrooms.com^
 |awokedoubtless.com^
 |awpcase.com^
+|awpcrpu.com^
 |awprt.com^
 |awptjmp.com^
 |awptlpu.com^
@@ -25873,6 +25876,7 @@
 |celebwelove.com^
 |celerantatters.com^
 |celeritascdn.com^
+|celestebeverly.com^
 |celestia.es^
 |celestia.fr^
 |celexa.1.p2l.info^
@@ -35862,7 +35866,6 @@
 |dimedontisar.cam^
 |dimensionfunding.actonservice.com^
 |dimensionhatefulstricken.com^
-|dimensions.ai^
 |dimensions.mappy.com^
 |dimeprice.com^
 |dimeromaean.com^
@@ -37612,6 +37615,7 @@
 |dreamteaser.ru^
 |dreamvoz.net.zooplus.nl^
 |dreamware.com.cn^
+|drebz4f.shop^
 |drecentreshu.info^
 |dreimer.ru^
 |drentothem.biz^
@@ -37813,6 +37817,7 @@
 |dsp-click.youdao.com^
 |dsp-endscreens.unityads.unity3d.com^
 |dsp-eu.surfy.tech^
+|dsp-idea.cdn.bcebos.com^
 |dsp-impr.youdao.com^
 |dsp-impr2.youdao.com^
 |dsp-lb.mediav.com^
@@ -37942,6 +37947,7 @@
 |dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com^
 |duamilsyr.com^
 |duanat.com^
+|duansiwei.top^
 |duanyu1106.cn^
 |duapps.com^
 |dub2-mpi-aaa-1.net.zooplus.it^
@@ -39712,6 +39718,7 @@
 |edstylistepro.xyz^
 |edt02.net^
 |edtp.de^
+|edu-ad-test-cdn.cdn.bcebos.com^
 |edu-us.schneider-electric.com^
 |edu.jiukang.org^
 |edua29146y.com^
@@ -52063,6 +52070,7 @@
 |gyfwz.com^
 |gygdmy.com^
 |gyh1lh20owj.ru^
+|gykj.xyz^
 |gylhglpxeemj.com^
 |gyluheshy.com^
 |gymboxukex202.net.zooplus.fr^
@@ -64056,6 +64064,7 @@
 |lidongyang.shop^
 |lidplay.net^
 |lie2anyone.com^
+|liebian888.site^
 |liecso.e-himart.co.kr^
 |liendans.com^
 |lienquan-garena-giftcode.com^
@@ -65126,6 +65135,7 @@
 |locdrop.query.yahoo.com^
 |lock24.net^
 |lockbz.com^
+|lockdowncautionmentally.com^
 |locked1.com^
 |locked2.com^
 |locked4.com^
@@ -66048,6 +66058,7 @@
 |lsawards.com^
 |lsbeim.mediamart.vn^
 |lscckgm.cn^
+|lsdkjfkdlsf.ydtykj.net^
 |lsdstgcv.com^
 |lsebay.com^
 |lsebez.cn^
@@ -73310,6 +73321,7 @@
 |mobadme.jp^
 |mobads-logs.baidu.cn^
 |mobads-logs.baidu.com^
+|mobads-pre-config.cdn.bcebos.com^
 |mobads-speed.baidu.com^
 |mobads.baidu.cn^
 |mobads.baidu.com^
@@ -77278,6 +77290,7 @@
 |nrpytlwohljfjgc.xyz^
 |nrqqjb.com^
 |nrs-group.com^
+|nrxduw5.com^
 |nryceuula.com^
 |nryiou.cn^
 |nrzcj.top^
@@ -83938,6 +83951,7 @@
 |pmlw0efk4x.com^
 |pmm.people.com.cn^
 |pmndbsjd.site^
+|pmp-ad.cdn.bcebos.com^
 |pmp.adinall.com^
 |pmp.sharethrough.com^
 |pmptrack-autohome.gentags.net^
@@ -86377,6 +86391,7 @@
 |push.dopool.com^
 |push.esputnik.com^
 |push.feng.com^
+|push.getbeamer.com^
 |push.gm.kukuplay.com^
 |push.house^
 |push.knd.ro^
@@ -92491,6 +92506,7 @@
 |sb.scorecardresearch.com^
 |sb.voicefive.com^
 |sb4you1.com^
+|sb6688.xyz^
 |sba.about.co.kr^
 |sbaffiliates.com^
 |sbajozhyozjky.com^
@@ -92917,6 +92933,7 @@
 |scw.systems^
 |scw0.com^
 |scws.120ask.com^
+|sd-tagging.azurefd.net^
 |sd.5.p2l.info^
 |sd.cn.miaozhen.com^
 |sd.domob.cn^
@@ -93070,6 +93087,7 @@
 |sdskj.club^
 |sdsp.ipinyou.com^
 |sdsttt.com^
+|sdtagging.azureedge.net^
 |sdtieta.com^
 |sdu.adwo.com^
 |sdual.plgfzyp.cn^
@@ -95575,6 +95593,7 @@
 |site24x7rum.com^
 |site24x7rum.eu^
 |siteadvisor.com-br.site^
+|sitealyse.de^
 |siteanaliz.org^
 |siteapps.com^
 |sitebakup.com^
@@ -100898,6 +100917,7 @@
 |stats.absol.co.za^
 |stats.acadevor.com^
 |stats.adlice.com^
+|stats.administrarweb.es^
 |stats.adn.es^
 |stats.adultswim.com^
 |stats.agl.com.au^
@@ -109179,6 +109199,7 @@
 |triggertag.gorillanation.com^
 |triggit.com^
 |trigr.co^
+|trigs-sockets.com^
 |trigub.ru^
 |trillerseora.com^
 |trilogyed.com^
@@ -109527,6 +109548,7 @@
 |tsbqljox.xyz^
 |tscounter.com^
 |tscrje.designonline24.nl^
+|tsdflsdk.cypcb.net^
 |tsdlp.com^
 |tsds.tech^
 |tse.telerama.fr^
@@ -109744,6 +109766,7 @@
 |tukeai.com^
 |tukexiu.com^
 |tukj.net^
+|tukkpixabay.com^
 |tuknelym.com^
 |tukuru.cotta.jp^
 |tula9mari.com^
@@ -110147,6 +110170,7 @@
 |tzovkp.aboutyou.at^
 |tzuyruz.cn^
 |tzwaw.pw^
+|tzxmhi.com^
 |tzym322.qzmhnk.com^
 |u-ad.info^
 |u-coin.club^
@@ -121342,6 +121366,7 @@
 |xboxps3topc.com^
 |xbp.code.weddingeeos.com^
 |xbpointcodes.com^
+|xbqi.xin^
 |xbqnmleyze.ru^
 |xbrbglhkbtwysgx.xyz^
 |xbrutm.sevenstore.com^
@@ -123729,6 +123754,7 @@
 |ytbctyy.com^
 |ytbnm.cn^
 |ytcard.cn^
+|ytcsugxsud.com^
 |ytelc.com^
 |ytgbnmyfljlheue.xyz^
 |ytgfsvcwtradg.xyz^
