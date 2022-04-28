@@ -1,11 +1,11 @@
-# Checksum: MTY1MTAyNDU2OAo=
+# Checksum: MTY1MTExMjc4MAo=
 # Title: Zhijie's Ad Filter for Pi-hole (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.2-20220427-0
-# TimeUpdated: 2022-04-27T01:56:08+00:00
+# Version: 1.2.2-20220428-0
+# TimeUpdated: 2022-04-28T02:26:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 123484
+# Total: 123543
 0-158.net.daraz.com
 0-bitbucket.net.zooplus.de
 0-firewall.net.zooplus.de
@@ -870,6 +870,7 @@
 12086.net
 121-124-124-220.net.daraz.com
 12123-games.net.daraz.com
+1219c3e1c9.com
 121media.com
 122.net.daraz.com
 122012-games.net.daraz.com
@@ -1939,6 +1940,7 @@
 23617710.com
 237.net.daraz.com
 237482345sd.com
+23873645.com
 2398.pw
 23a6b8b0afb.com
 23dsf.top
@@ -2500,6 +2502,7 @@
 3420767.notifysrv.com
 342151ed6e.com
 3423953.notifysrv.com
+34283078.com
 3432573.notify6.com
 3440411.notify6.com
 3457.net.zooplus.de
@@ -5725,6 +5728,7 @@ a6s.chaojilamei.cn
 a6s.modoupai.com
 a6s.ruyiqufu.com
 a6s.ve001nz.com
+a6vv9o.online
 a72d79c58b.33e429d29e.com
 a75-10-so.ssl.cdn13.com
 a751.oadz.com
@@ -8651,6 +8655,7 @@ adhearus.com
 adhelper.org
 adherenceenmitycentury.com
 adherenceprosperous.com
+adherencestated.com
 adhese.be
 adhese.com
 adhese.net
@@ -16991,6 +16996,7 @@ assimilatesmartlyawfully.com
 assistantrok.club
 assistedadultrib.com
 assistedloop.com
+assistedsquall.com
 assisteggs.com
 assistvantp.biz
 assiumwor.com
@@ -17886,6 +17892,7 @@ awwlcx.cn
 awwlfb.cn
 awwlib.cn
 awwlrd.cn
+awwoeoevxnvt.com
 awwtkisfm.com
 awxoddnhl.xyz
 awxqiujkhrf.top
@@ -18034,6 +18041,7 @@ azorza.ru
 azpresearch.club
 azrimet.info
 azsin.ru
+azskk.com
 aztbeszelik.com
 aztecash.com
 aztool.org
@@ -18718,6 +18726,7 @@ banfw.com
 banfz.com
 banfzw.cn
 bang5mai.com
+bangabdicate.com
 bangalsskfyuflc.xyz
 banganet.com
 bangbang521.com
@@ -21864,6 +21873,7 @@ boringberry.com
 boringcoat.com
 boriskink.com
 bornobid.com
+boroniasunback.com
 bororango.com
 boroskola.info
 borotango.com
@@ -22360,6 +22370,7 @@ bruperchrophone.com
 brushdaughter.com
 bruteigjocrcn.xyz
 brvyjcu0ablfhwx.ru
+brwbimexv.com
 brwvdoorqmsnqbl.xyz
 brxfinance.com
 bryonypie.com
@@ -24534,6 +24545,7 @@ cc3.ifeng.com
 cc599.com
 cc5f.dnyp.com
 cca.mob.com
+cca1660917.com
 cca1e94d3b3.com
 ccaas.avaya.com
 ccalgf.com
@@ -25586,6 +25598,7 @@ changduk26.com
 changeablesizepractically.com
 changechickens.com
 changedcombustible.com
+changefranticallywhom.com
 changement.pro
 changhehengqi.com
 changlai.net.zooplus.de
@@ -26451,6 +26464,7 @@ claimfreerewards.com
 claimi7.com
 claimiphone7.net
 claimunibonus.com
+clainence.com
 clairedikio.club
 clairiose.pro
 clairvoyantvigourcelebrity.com
@@ -27722,6 +27736,7 @@ cnxweb.com
 cny.yoyo.org
 cnyharo.ru
 cnyibs.com
+cnywhcuyvjc.com
 cnywst.com
 cnzhqs.com
 cnzz.172internet.com
@@ -32032,6 +32047,7 @@ d11hjbdxxtogg5.cloudfront.net
 d11lt3e1lizkg0.cloudfront.net
 d11tybz5ul8vel.cloudfront.net
 d11w14257901lw.cloudfront.net
+d12czbu0tltgqq.cloudfront.net
 d12ysuoljjyfqa.cloudfront.net
 d131c7173a.com
 d138am4hd4ke4y.cloudfront.net
@@ -32888,6 +32904,7 @@ daffices.com
 dafficha.com
 dafoljqjmlopaf.com
 dafthulksyams.com
+daftporus.website
 dafuhao918.com
 dagamehubx.com
 dagameroll.fun
@@ -35228,6 +35245,7 @@ dishesha.net
 dishpurchasingcorporation.hb.omtrdc.net
 disillusionworn.com
 disinheritacquaintancechop.com
+disintegrateapprenticedistribute.com
 disinterestedreflectionmuscle.com
 disk-wiperdisk-wiper.net.zooplus.nl
 disklaimer.ru
@@ -42442,6 +42460,7 @@ fcmatch.google.com
 fcmatch.youtube.com
 fcone.fidelitycharitable.org
 fcpogmvrmhv.com
+fcrbsqtsuvexcsy.com
 fcrdb.com
 fcrgzqkbtgu.co
 fcrxoyyaf.com
@@ -42662,6 +42681,7 @@ fenefa.com
 fengbuy.com
 fengche.cpv6.com
 fengchedaomall.cn
+fengfeng.fun
 fenggejiaju.com
 fengmian.xyz
 fengmishop.cn
@@ -50706,6 +50726,7 @@ guarda4k.online
 guardedfebruaryenclosed.com
 guardedgovernor.com
 guardedschool.com
+guardianamazedwireless.com
 guardiancu.actonservice.com
 guardiandigitalcomparison.co.uk
 guardianinvadecrept.com
@@ -52602,6 +52623,7 @@ hindversion.com
 hinfectlyb.biz
 hingefestivitysmelt.com
 hinisanex.biz
+hinlargecon.com
 hinotoenh.online
 hintonsfeetred.info
 hioeb.com
@@ -58175,6 +58197,7 @@ japscat.org
 japsulsa.com
 japveny.ru
 jarailso.com
+jarbirdkorait.com
 jarror.com
 jarsquatter.com
 jarvispopsu.com
@@ -59733,6 +59756,7 @@ juren0.com
 juricts.xyz
 juringupstage.com
 jurjgajux.xyz
+jurl.pw
 jurmus.com
 juroptyne.com
 juroudaw.com
@@ -60241,6 +60265,7 @@ kaytri.com
 kayyo.tech
 kazandirtyscoot.com
 kazban.su
+kazigua.top
 kazmedia.su
 kazoowaughy.com
 kazucivi.com
@@ -60772,6 +60797,7 @@ kityamurlika.com
 kityko.com
 kiupoo.stroeerdp.de
 kivaphugri.com
+kive-intro.web.app
 kiwi.emilkowal.ski
 kiwi.mdldb.net
 kiwi.railway.app
@@ -61858,6 +61884,7 @@ landsnail.bindle.io
 landsnail.brownfield.dev
 landsnail.fixable.pro
 langger76.site
+langkefaye.top
 langosh.biz
 langren85.com
 langtzet.info
@@ -64299,6 +64326,7 @@ logly.co.jp
 logmatic.io
 lognormal.net
 logo-net.co.uk
+logoduoduo.com
 logonext.tv.kuyun.com
 logoshejishi.com
 logperf.vnexpress.net
@@ -67363,6 +67391,7 @@ mamababu.cn
 mamamiyu.com
 mambkooocango.com
 mambo.kiev.ua
+mamboedclarine.com
 mament.co
 mamihlapinatana.xyz
 mamka.aviasales.ru
@@ -71397,6 +71426,7 @@ mirafaren.pw
 mirago.com
 mirando.de
 miricommunity.net
+mirishkeeps.com
 mirnauk.ru
 mirongotrof.ru
 mirror-mail.net.zooplus.fr
@@ -71998,6 +72028,7 @@ mobile.log.kukuplay.com
 mobile.medimaging.net.zooplus.fr
 mobile.mng-ads.com
 mobile.net.zooplus.nl
+mobile.slgnt.eu
 mobile.swag-mail.net.zooplus.fr
 mobile2.da.mgtv.com
 mobile333.com
@@ -75367,6 +75398,7 @@ nnarcfxrahotv.xyz
 nnavigation.info
 nnccya.top
 nnd.xyssp.com
+nndkukagmos.com
 nndpnjoh.xyz
 nne1uuxpna.site
 nne1uwtbnem.info
@@ -76451,6 +76483,7 @@ nvidpns.com
 nvironymscli.info
 nvjqm.com
 nvmcavgqcr.com
+nvmjdpbjgrh.com
 nvmsa.top
 nvoepbzqtn.com
 nvpdaa.brightcellars.com
@@ -76586,6 +76619,7 @@ nzezn.com
 nzfc.2zm4.cn
 nzhfk.com
 nzhwyxgmgmhi.com
+nzihjybdeq.com
 nzixhx.com
 nzme-ads.co.nz
 nzmkzl.mytheresa.com
@@ -77669,6 +77703,7 @@ onads.com
 onadvert.ru
 onalskillsexkc.com
 onapp.haravan.com
+onastydrum.com
 onatozo.info
 onaudience.com
 onaugan.com
@@ -78015,6 +78050,7 @@ ooxxsearch.com
 ooykew.cn
 oozgka.immoscout24.ch
 oozing.co
+oozyunmix.com
 oozzfx.mijndomein.nl
 op-drive-sto.carrefour.fr
 op.88dush.com
@@ -78625,6 +78661,7 @@ oughtbuilding.com
 ougribot.net
 ouhastay.net
 oujouniw.com
+oujtbhllnntesk.com
 oukreesy.net
 oukrocky.com
 oukruque.com
@@ -80215,6 +80252,7 @@ payday-loans.now-cash.com
 paydemic.com
 paydotcom.com
 payeganco.com
+payerscocoa.com
 payfery.ru
 payingnoodlescam.com
 paykasasitesi.com
@@ -82331,6 +82369,7 @@ pnwirpmr.com
 pnx.net.zooplus.fr
 pnxs.com
 pny.net.penny.de
+pnyllove.com
 po-cloud.net
 po.funshion.com
 po.ponant.com
@@ -87970,6 +88009,7 @@ revenuetonightperforming.com
 revenuevids.com
 revenuewire.net
 reverendcurvature.com
+revereshaggeis.com
 reverseaggressivedependent.com
 reversed.biz
 reversionconceivedremarks.com
@@ -88640,6 +88680,7 @@ romepoptahul.com
 romilit.com
 rompuwit.net
 ron.si
+rondo.fun
 ronetu.ru
 roneum.crypto-webminer.com
 rongangongzu.cn
@@ -89375,6 +89416,7 @@ ryllae.com
 rymhet.posudamart.ru
 ryminos.com
 rynilwnu.xyz
+rynlrkqgyjqfaxs.com
 rynntonyaxowh.com
 ryotsikes.com
 rypamigbr.ru
@@ -91127,6 +91169,7 @@ scund.com
 scuoo.porneq.co
 scupio.com
 scupio.net
+scurfrubicon.com
 scussiago.xyz
 scuzgq.greencell.global
 scvxgm.cn
@@ -91161,6 +91204,7 @@ sdata.avid.com
 sdata.wiley.com
 sdawe.top
 sdbdccq.com
+sdbqiynix.com
 sdc.10086.cn
 sdc.allianz-autowelt.de
 sdc.allianz.de
@@ -93944,6 +93988,7 @@ skeettools.com
 skelaxin.1.p2l.info
 skelaxin.3.p2l.info
 skelaxin.4.p2l.info
+skellbillard.com
 skencituer.com
 skenqaamefeoncfegrytbuvksebpefer.com
 sketchinferiorunits.com
@@ -98940,6 +98985,7 @@ static.browsermine.com
 static.bshare.cn
 static.cdn.gtsmobi.com
 static.chartbeat.com
+static.cloudflareinsights.com
 static.criteo.net
 static.csbew.com
 static.danmu.baofeng.com
@@ -100357,6 +100403,7 @@ stoneegn.net
 stonefire.io
 stonegamble.com
 stonseeb.net
+stoodgogas.xyz
 stookoth.com
 stoolapostlecarbon.com
 stoomeddert.info
@@ -103150,6 +103197,7 @@ tellapal.register.com
 tellapart.com
 tellaparts.com
 telllwrite.com
+tellmadeirafireplace.com
 tellslipstick.com
 tellsupposedly.com
 tellvi.cn
@@ -104547,6 +104595,7 @@ tkqjii.tokyu-resort.co.jp
 tkrecorder.aotter.net
 tkshyp.com
 tktracker.aotter.net
+tkudoacf.com
 tkuegrje.com
 tkurpqyoct.com
 tkvgtsbreb.com
@@ -106162,6 +106211,7 @@ track.span-smt.jp
 track.spothero.com
 track.spots.im
 track.sprinklecontent.com
+track.storm.mg
 track.strife.com
 track.sunmedia.tv
 track.swaptrap.live
@@ -106187,6 +106237,7 @@ track.ugamezone.com
 track.ultimate-guitar.com
 track.ultravpn.com
 track.unear.net
+track.unidata.ai
 track.untd.com
 track.upaknee.com
 track.vcdc.com
@@ -107475,6 +107526,7 @@ triphasil.4.p2l.info
 triple-hat.store
 triplelift.com
 triplewhale-pixel.web.app
+tripolihash.com
 trippealbirthda.info
 trippinger.com
 tripsbooth.com
@@ -108337,6 +108389,7 @@ txgakrasgns.com
 txgg2022bisheng.com
 txgwscbhqkh.xyz
 txmboigodejgj.xyz
+txmsw.mobi
 txpbnm.sevellia.com
 txpodqjhabos.com
 txqafwdutgjx.xyz
@@ -109555,6 +109608,7 @@ uppsyduckan.com
 uppyads.com
 upravel.com
 upregisteelon.com
+uprightmidsummer.com
 uprimp.com
 uprisingdlcfree.com
 uprivaladserver.net
@@ -111634,6 +111688,7 @@ vklsjdnfsdkjb.net
 vkmessage01.net
 vkmoll.ru
 vkmonster.com
+vknalqcnfxu.com
 vknrfwwxhxaxupqp.pro
 vkonte.club
 vkonte.live
@@ -112756,6 +112811,7 @@ watson.live.com
 watson.microsoft.com
 watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
+watsupmanu.com
 wattpad.online
 waubasou.com
 waudeesestew.com
@@ -114791,6 +114847,7 @@ wrnqwyabstlbbk.com
 wrongpotato.com
 wronpeci.com
 wrontonshatbona.pro
+wrotal.com
 wroteadministercurve.com
 wroton.com
 wrotr.com
@@ -121031,6 +121088,7 @@ ydwddpusjyu.xyz
 ydwjmvv.cn
 ydwlkj.com
 ydwsjt-2.com
+ydygk.com
 ydysywor.xyz
 ye-n-universitiy.xyz
 ye.proko.cn
@@ -121796,6 +121854,7 @@ youyijia021.com
 youyouf.top
 youyoumw.com
 youzhizi.com
+youzonggw.com
 yovenbugsha.com
 yovkr.xyz
 yovoads.com
