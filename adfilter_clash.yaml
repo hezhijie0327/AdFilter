@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTY1MjU3OTk4Ngo=
+# Checksum: MTY1MjY2NTQwNwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.2-20220515-0
-# TimeUpdated: 2022-05-15T01:59:46+00:00
+# Version: 1.2.2-20220516-0
+# TimeUpdated: 2022-05-16T01:43:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 124145
+# Total: 124162
   - DOMAIN,0-132.net.daraz.com
   - DOMAIN,0-158.net.daraz.com
   - DOMAIN,0-bitbucket.net.zooplus.de
@@ -3042,6 +3042,7 @@ payload:
   - DOMAIN,4jiqzr.ru
   - DOMAIN,4jnzhl0d0.com
   - DOMAIN,4jsdw9ta.com
+  - DOMAIN,4kddyfd.cn
   - DOMAIN,4ke5b4ila.codedge.de
   - DOMAIN,4kfv18.cn
   - DOMAIN,4kmovies.online
@@ -14961,6 +14962,7 @@ payload:
   - DOMAIN,andersonarketing.net.zooplus.de
   - DOMAIN,andersondolly.actonservice.com
   - DOMAIN,andersonowa.net.zooplus.de
+  - DOMAIN,andhub.jp
   - DOMAIN,andibringto.biz
   - DOMAIN,andinterpers.com
   - DOMAIN,andlache.com
@@ -30918,6 +30920,7 @@ payload:
   - DOMAIN,crookedcareers.com
   - DOMAIN,croresh.com
   - DOMAIN,crorop.com
+  - DOMAIN,cross-a.net
   - DOMAIN,cross-system.com
   - DOMAIN,crossboardmobile.com
   - DOMAIN,crosschannel.com
@@ -37458,6 +37461,7 @@ payload:
   - DOMAIN,ds-pc.admsger.com
   - DOMAIN,ds-pv.iqu-operation.com
   - DOMAIN,ds-recommender.styria.hr
+  - DOMAIN,ds.11st.co.kr
   - DOMAIN,ds.api.baifendian.com
   - DOMAIN,ds.digital-science.com
   - DOMAIN,ds.haaretz.co.il
@@ -44847,6 +44851,7 @@ payload:
   - DOMAIN,fpt.microsoft.com
   - DOMAIN,fptad.com
   - DOMAIN,fptest.fraudmetrix.cn
+  - DOMAIN,fpvdxd5.com
   - DOMAIN,fpvtlnfbydo.com
   - DOMAIN,fpwtsp.xxxlutz.de
   - DOMAIN,fpxewa.ilmeteo.it
@@ -52023,6 +52028,7 @@ payload:
   - DOMAIN,hacker-un-compte-facebook.com
   - DOMAIN,hacker-zonee.com
   - DOMAIN,hacker2014.com
+  - DOMAIN,hackeraa.xyz
   - DOMAIN,hackercomptefacebook.fr
   - DOMAIN,hackerfbhack.com
   - DOMAIN,hackerfiles.net
@@ -53926,6 +53932,7 @@ payload:
   - DOMAIN,hookeroblong.com
   - DOMAIN,hookupbucks.com
   - DOMAIN,hookworm.commanddot.com
+  - DOMAIN,hooliganmedia.com
   - DOMAIN,hoolyfy.com
   - DOMAIN,hoood.info
   - DOMAIN,hoophaub.com
@@ -54542,6 +54549,7 @@ payload:
   - DOMAIN,huixingcheng.cn
   - DOMAIN,huiyef.cn
   - DOMAIN,huiyutz.cn
+  - DOMAIN,huizai.top
   - DOMAIN,huizeyoupin.com
   - DOMAIN,hulaga.net
   - DOMAIN,hulai0323166.space
@@ -58726,6 +58734,7 @@ payload:
   - DOMAIN,ixnj.8j24h.cn
   - DOMAIN,ixnow.xyz
   - DOMAIN,ixnp.com
+  - DOMAIN,ixnrmco.com
   - DOMAIN,ixqfughrynmfh.com
   - DOMAIN,ixrqwxewdx.xyz
   - DOMAIN,ixsgoy.getpenta.com
@@ -58884,6 +58893,7 @@ payload:
   - DOMAIN,jackpothard.com
   - DOMAIN,jackpotwinner.info
   - DOMAIN,jackskins.com
+  - DOMAIN,jacksonyee.club
   - DOMAIN,jacquelinelaura.com
   - DOMAIN,jadcenter.com
   - DOMAIN,jadedi.com
@@ -62307,6 +62317,7 @@ payload:
   - DOMAIN,kxewpz.com
   - DOMAIN,kxid.cn
   - DOMAIN,kxji.com
+  - DOMAIN,kxla.xyz
   - DOMAIN,kxldvcytb.xyz
   - DOMAIN,kxlogo.knet.cn
   - DOMAIN,kxmrwu.ibarakinews.jp
@@ -83799,6 +83810,7 @@ payload:
   - DOMAIN,ppxbsbluutiwc.xyz
   - DOMAIN,ppxhpc.eurocamp.nl
   - DOMAIN,ppxldikxksuo.com
+  - DOMAIN,ppyibei.com
   - DOMAIN,pq.stat.ku6.com
   - DOMAIN,pqbj.jianjiaovip.vip
   - DOMAIN,pqciix.busuu.com
@@ -102034,6 +102046,7 @@ payload:
   - DOMAIN,swjrzk.cn
   - DOMAIN,swkism.moon-trade.ru
   - DOMAIN,swmdqn.sizeofficial.fr
+  - DOMAIN,swml.xyz
   - DOMAIN,swnmuh.ru
   - DOMAIN,swnptn.cn
   - DOMAIN,swoodlander.site
@@ -110680,6 +110693,7 @@ payload:
   - DOMAIN,uurykr.pizzahut.com.mx
   - DOMAIN,uusee.adsame.com
   - DOMAIN,uuwhg.com
+  - DOMAIN,uuwn7ho.cn
   - DOMAIN,uux79.com
   - DOMAIN,uuxnwoevyb.com
   - DOMAIN,uuybnrimdyg.com
@@ -114975,6 +114989,7 @@ payload:
   - DOMAIN,wn.worknest.com
   - DOMAIN,wn.x.jd.com
   - DOMAIN,wn052ucd.online
+  - DOMAIN,wn68din.cn
   - DOMAIN,wnbaiojthwrq.xyz
   - DOMAIN,wnbeiskivkkmpy.xyz
   - DOMAIN,wnbfw.com
@@ -120882,6 +120897,7 @@ payload:
   - DOMAIN,xn--mtsr39cnql.video
   - DOMAIN,xn--oogle-wmc.com
   - DOMAIN,xn--opsin-2i1bzn.com
+  - DOMAIN,xn--s-4z5e652a53k.com
   - DOMAIN,xn--steamcmnunily-glb.com
   - DOMAIN,xn--steamcommunlity-vpb.com
   - DOMAIN,xn--steamcommunlt-lse6412i.com
@@ -121822,6 +121838,7 @@ payload:
   - DOMAIN,yh6u.dealeusedevoyages.com
   - DOMAIN,yhaizy.cn
   - DOMAIN,yhbdzh.farmasiint.com
+  - DOMAIN,yhbsk.cn
   - DOMAIN,yhdcdo.crazy-factory.com
   - DOMAIN,yhdichan.com
   - DOMAIN,yhdtns.com
