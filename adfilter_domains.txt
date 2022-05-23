@@ -1,11 +1,11 @@
-# Checksum: MTY1MzE4MzgyNgo=
+# Checksum: MTY1MzI3MDU0Nwo=
 # Title: Zhijie's Ad Filter for Pi-hole (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.2.2-20220522-0
-# TimeUpdated: 2022-05-22T01:43:46+00:00
+# Version: 1.2.2-20220523-0
+# TimeUpdated: 2022-05-23T01:49:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 125572
+# Total: 125592
 0-132.net.daraz.com
 0-158.net.daraz.com
 0-bitbucket.net.zooplus.de
@@ -6184,6 +6184,7 @@ aau8.xyz
 aau9.xyz
 aaucna.casasbahia.com.br
 aaucwbe.com
+aawulszemel.com
 aax-cpm.amazon-adsystem.com
 aax-eu-dub.amazon.com
 aax-eu.amazon-adsystem.com
@@ -6755,6 +6756,7 @@ accompliceexpressingpug.com
 accomplishmentformation.com
 accomplishmentstrandedcuddle.com
 accomplishplunderbreeches.com
+acconsento.click
 accordinglytongue.com
 accordinglyvenisonelse.com
 account-authpartner.net.daraz.com
@@ -16855,6 +16857,7 @@ articlefddss1.info
 artisan-digital.cn
 artisany.net
 artistchristinacarmel.ericksonbuilt.com
+artisticbuoyemphasize.com
 artmaxim.ru
 artmentm.one
 artmusic.dk
@@ -34002,6 +34005,7 @@ dd6zx4ibq538k.cloudfront.net
 dd713.bj.bcebos.com
 dd77535fba.3901da0f4a.com
 dd7bet.me
+ddajztoum.com
 ddang.com
 ddanq.com
 ddapp.cn
@@ -37234,6 +37238,7 @@ dtsedge.com
 dtto8zfzskfoa.cloudfront.net
 dttrk.com
 dtv5loup63fac.cloudfront.net
+dtwangicrur.com
 dtwmignuiijfrd.com
 dtxngr.com
 dtxtngytz5im1.cloudfront.net
@@ -45538,6 +45543,7 @@ fun.ynet.com
 fun1118.com
 fun705.com
 fun7778.com
+fun881211.com
 funanomie.com
 funbazar.info
 funcionapage.com
@@ -45723,6 +45729,7 @@ fwejqe.gundrymd.com
 fwetxfvxsjtw.com
 fwgvpvdgwby.com
 fwix.com
+fwlgepp.cn
 fwnetrb.cn
 fwnowvgk.com
 fwpixel.com
@@ -47471,6 +47478,7 @@ ggx10.miguvideo.com
 ggxrigjp.xyz
 ggxskins.fun
 ggxt.net
+ggxwb.miguvideo.com
 ggydofjoubxptm.xyz
 gh-mail.net.zooplus.nl
 gh-marketing.net.zooplus.nl
@@ -48724,7 +48732,6 @@ go.goodcycle.net
 go.goodpatch.com
 go.gotennapro.com
 go.gotourl.xyz
-go.gotourls.bid
 go.gouspack.com
 go.gpcom.com
 go.gradle.com
@@ -52962,6 +52969,7 @@ hivecn.cn
 hivedata.cc
 hivideoworld.com
 hivps.xyz
+hiwfaoa.cn
 hixili.top
 hiy.vidzi.tv
 hiyksu.karllagerfeldparis.com
@@ -59333,6 +59341,7 @@ jpzwomhbxoalxu.com
 jq.a0buy.top
 jq159.com
 jqad.vip
+jqassets.do
 jqassets.download
 jqcdn.download
 jqcdn01.herokuapp.com
@@ -60021,6 +60030,7 @@ jwaiqmifu.com
 jwalf.com
 jwduahujge.ru
 jwg365.cn
+jwhfkj.cn
 jwhwjfkab.xyz
 jwihubtml.com
 jwiyr.com
@@ -66851,6 +66861,7 @@ ma.polytechhealth.com
 ma.preciofishbone.se
 ma.redhat.com
 ma.register.it
+ma.tarnkappe.info
 ma.vivivit.com
 ma.weeklybcn.com
 ma.wp.pl
@@ -71833,6 +71844,7 @@ mkolqj.ozonee.pl
 mkpzmq.crocs.ru
 mkqiqfjh.com
 mkrxgcyfqr.com
+mkscuty.cn
 mksogv.oneclickdrive.com
 mkt-asia.global.fujitsu.com
 mkt-japan.global.fujitsu.com
@@ -73543,6 +73555,7 @@ muvhqe.graodegente.com.br
 muvideo.us
 muvimtim.com
 muwmedia.com
+muwootch.com
 muwyib.lettuce.co.jp
 muxeyipppxwvsj.com
 muxingkj.com
@@ -82115,7 +82128,6 @@ pic.517m.cn
 pic.51yes.com
 pic.5211game.com
 pic.adeaz.com
-pic.adver.com.tw
 pic.bdyxzx.com
 pic.bloggerads.net
 pic.by175.com
@@ -82237,7 +82249,6 @@ pigvideo.com.cn
 pihiukyrcdmel.com
 pijiagui.cn
 pijoto.net
-pijper.io
 pikedhelloed.com
 pikeletkiyi.com
 pikzor.com
@@ -86456,6 +86467,7 @@ qiyijiazhuangshi.com
 qiyix.cn
 qiyou.com
 qiyu.shop
+qiyukf.com
 qizhao.com
 qizjkwx9klim.com
 qizltkyxlgua.com
@@ -94658,6 +94670,7 @@ silverupload.com
 silwm.com
 simaba.m.taobao.com
 simaba.taobao.com
+simajl.top
 simaoer.com
 simastudio.cn
 simba.6.cn
@@ -105451,6 +105464,7 @@ tiankongzudui.com
 tianlule.cn
 tianmidian.com
 tiannbo.com
+tianqi1212.com
 tianqi777.com
 tianshilv.cn
 tianshu-x.gtimg.cn
@@ -113660,6 +113674,7 @@ vskin.pro
 vskoedps.com
 vsmeue.promo.skf.com
 vsmeus.promo.skf.com
+vsmyhky.cn
 vsnoon.com
 vsohu.admaster.com.cn
 vsp-online.com
@@ -116446,6 +116461,7 @@ wrotr.com
 wrqmkayidop.com
 wrtijbdf.xyz
 wrtm.walla.co.il
+wru795e.cn
 wrutor.org.pl
 wrvdmh.cn
 wrvueo.mollis.ru
@@ -121467,6 +121483,7 @@ xavdtf.s7.ru
 xavingtsun.com
 xavua.com
 xawab.com
+xawmgspvdvyrnrd.com
 xawsnngjljanxof.su
 xaxaxa.ovh
 xaxdlogr.com
@@ -123153,6 +123170,7 @@ yfzjhvllsioo.com
 yg592gpmrh0q.com
 ygamhusjtdzajm.com
 ygcxcqgsnemsb.com
+ygetatleiomrrr.com
 ygfwbczu.com
 yggcfcirw.xyz
 yggkzs.cn
@@ -123996,6 +124014,7 @@ yuegepiano.cn
 yueleshenghuo.cn
 yueli.me
 yueli101.xyz
+yuemmu.com
 yuepao.in
 yueqal.glassesusa.com
 yuesenshangmao.cn
@@ -124709,6 +124728,7 @@ zhangjinfei.vip
 zhangjuan.love
 zhangjunying.top
 zhangkeblog.site
+zhanglibomgmail.online
 zhangmingqin.tech
 zhangshen.club
 zhangshiyuan.com
