@@ -1,11 +1,11 @@
-! Checksum: MTY1MzM1ODAwMQo=
+! Checksum: MTY1MzQ0MzU4Mwo=
 ! Title: Zhijie's Ad Filter for Adblock (WEB-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.2.2-20220524-0
-! TimeUpdated: 2022-05-24T02:06:41+00:00
+! Version: 1.2.2-20220525-0
+! TimeUpdated: 2022-05-25T01:53:03+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 153901
+! Total: 153947
 ||0-132.net.daraz.com^
 ||0-5-weche-4.net.zooplus.com^
 ||0-acc-apac.net.zooplus.com^
@@ -17794,6 +17794,7 @@
 ||3249648.notify6.com^
 ||3250.net.zooplus.com^
 ||325d3d949f.com^
+||325szdv.cn^
 ||3261.net.daraz.com^
 ||32626733.net.daraz.com^
 ||3273540.notifysrv.com^
@@ -23287,6 +23288,7 @@
 ||acs.wapa.taobao.com^
 ||acs86.com^
 ||acsbap.com^
+||acsbapp.com^
 ||acscdn.com^
 ||acstat.com^
 ||acsystem.wasu.cn^
@@ -31361,6 +31363,7 @@
 ||analytics.yahoo.com^
 ||analytics.yam.com^
 ||analytics.yext-static.com^
+||analytics.ynap.biz^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
 ||analytics.yomedia.vn^
@@ -33677,6 +33680,7 @@
 ||ascertaincrescenthandbag.com^
 ||ascertainedfortnight.com^
 ||asclepius.nordenta.se^
+||ascpqnj-oam.global.ssl.fastly.net^
 ||ascraftan.com^
 ||asd.bauhaus.at^
 ||asd.bauhaus.es^
@@ -39663,6 +39667,7 @@
 ||btcadtop.com^
 ||btcbig.club^
 ||btcbonus.win^
+||btcbto.com^
 ||btce.pro^
 ||btcfast.io^
 ||btcfast.xyz^
@@ -41700,6 +41705,7 @@
 ||casinos.programasfull.com^
 ||casinotraffic.com^
 ||caslemedia.com^
+||casleygkqvkx.com^
 ||caspion.com^
 ||caspionlog.appspot.com^
 ||cassettelancefriday.com^
@@ -42774,6 +42780,7 @@
 ||cephalopod.nucleus.us^
 ||cephalopod.polymath.net^
 ||cephalopod.staff.design^
+||cephidelixed.com^
 ||ceppartner.com^
 ||ceptavou.net^
 ||ceraitoa.com^
@@ -44287,6 +44294,7 @@
 ||click.adpile.net^
 ||click.advertnative.com^
 ||click.airmalta-mail.com^
+||click.ali213.net^
 ||click.alibaba.com^
 ||click.aliyun.com^
 ||click.alternate.de^
@@ -46879,6 +46887,7 @@
 ||convertingtraffic.com^
 ||convertmb.com^
 ||convertro.com^
+||convertsial.com^
 ||convertsocial.com^
 ||conveyor.lewcoinc.com^
 ||convilla.xyz^
@@ -47642,6 +47651,7 @@
 ||cpair.net.zooplus.com^
 ||cpalabtracking.com^
 ||cpalead.com^
+||cpallcpqgngidnn.com^
 ||cpalock.com^
 ||cpam.pro^
 ||cpamedia.info^
@@ -53498,6 +53508,7 @@
 ||djgfsrlt.com^
 ||djhnrcithoq.com^
 ||djhoxvuiod.com^
+||djhrfus.xyz^
 ||djibeacon.djns.com^
 ||djibeacon.dowjoneson.com^
 ||djiiljjol.com^
@@ -53669,6 +53680,7 @@
 ||dlvds9i67c60j.cloudfront.net^
 ||dlvjmr.cn^
 ||dlxgm.cn^
+||dlxpix.net^
 ||dlxrlc2ni2.com^
 ||dlxxjsh.top^
 ||dlyads.com^
@@ -57534,6 +57546,7 @@
 ||eldinfuidhir.com^
 ||eldos.xyz^
 ||eldxbvskndmxnr.com^
+||ele26126.jscrambler.com^
 ||eleavers.com^
 ||electcase.com^
 ||election-sandwich-en-stationi.carte-gr.total.fr^
@@ -58175,6 +58188,7 @@
 ||emxdnfvdnwzx.com^
 ||emycewiw.xyz^
 ||emysw.com^
+||en-continue.site^
 ||en.btc-trader-app.club^
 ||en.btcprofit.we-trck.com^
 ||en.cookiescript.info^
@@ -58678,6 +58692,7 @@
 ||eovrti.cn^
 ||eoweridus.com^
 ||eoxjdqwggqj.xyz^
+||eozoicfirring.com^
 ||ep.xone.com^
 ||ep0ch.net^
 ||ep4p.com^
@@ -59167,6 +59182,7 @@
 ||etrans6.net.zooplus.com^
 ||etransac.net^
 ||etranslater1.com^
+||etrckeh.cn^
 ||etrecantformation.com^
 ||etrht.cn^
 ||etrigue.com^
@@ -60619,6 +60635,7 @@
 ||fastgameit.com^
 ||fastgiveaway.com^
 ||fastgull.io^
+||fastimage.uve.weibo.com^
 ||fastleakedmedia.com^
 ||fastly-insights.com^
 ||fastmediasearcher.com^
@@ -64426,6 +64443,7 @@
 ||gallupnet.fi^
 ||galop.leferacheval-saintcloud.com^
 ||galopelikeantelope.com^
+||galoreupspeed.com^
 ||galyra.com^
 ||gam.adnxs.com^
 ||gambero3.cs.tin.it^
@@ -66214,6 +66232,7 @@
 ||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
 ||gjc.gjirafa.com^
+||gjctwh.cn^
 ||gjh111.cn^
 ||gjhkyh.4fresh.ru^
 ||gjiak.com^
@@ -72140,6 +72159,7 @@
 ||hsux.com^
 ||hswenwan.cn^
 ||hswfj.cn^
+||hsxmxmsootyl.com^
 ||hsyjxzl.cn^
 ||hsykicwjl.com^
 ||hszbsj.com^
@@ -72741,6 +72761,7 @@
 ||i-glogger.ru^
 ||i-gp1pqs6f1.cn^
 ||i-i.lt^
+||i-main.site^
 ||i-majin.net.zooplus.fr^
 ||i-mobile.co.jp^
 ||i-reklama.sk^
@@ -75328,6 +75349,7 @@
 ||ingoomychan.com^
 ||ingorob.com^
 ||ingpercent.biz^
+||ingramony.com^
 ||ingress-csr41.net.daraz.com^
 ||ingress-mail.net.zooplus.fr^
 ||ingress-support.api.net.zooplus.de^
@@ -76254,6 +76276,7 @@
 ||isatice.com^
 ||isawaalphol.casa^
 ||isbamic.actonservice.com^
+||isc-tracking.eventim.com^
 ||iscosta.ru^
 ||iscreen.top^
 ||iscrv.com^
@@ -77242,6 +77265,7 @@
 ||jhbjtjwjsojjef.com^
 ||jhbsq.cn^
 ||jhcnuibj.com^
+||jhdajrgpag.online^
 ||jheva.com^
 ||jhfdmiwcgnty.ru^
 ||jhgff23az.biqugetv.com^
@@ -78273,6 +78297,7 @@
 ||json.smotri.com^
 ||jsontdsexit.com^
 ||jsoon.digitiminimi.com^
+||jspop.xyz^
 ||jspwww-mail.net.zooplus.nl^
 ||jspwwwsystem.backend-owa.net.zooplus.nl^
 ||jsqhh.cn^
@@ -78689,6 +78714,7 @@
 ||jzt.jd.com^
 ||jzuyfp8.cn^
 ||jzwp.fun^
+||jzzd.ink^
 ||k-125.net.daraz.com^
 ||k-analytix.com^
 ||k-cheats.com^
@@ -83307,6 +83333,7 @@
 ||logs.thethaovanhoa.vn^
 ||logs.upnono.com^
 ||logs.viadata.store^
+||logs.viavideo.digital^
 ||logs.vmixcore.com^
 ||logs1.reatimes.vn^
 ||logs1257.at.pagesjaunes.fr^
@@ -89496,6 +89523,7 @@
 ||metrics.kidsnews.com.au^
 ||metrics.kidspot.com.au^
 ||metrics.kirklands.com^
+||metrics.kmsmep.com^
 ||metrics.knowyourhdl.com^
 ||metrics.knowyourtrigs.com^
 ||metrics.kone-major-projects.com^
@@ -90736,6 +90764,7 @@
 ||mkadsearch.lizhifm.com^
 ||mkavkaz.ru^
 ||mkazanc.com^
+||mkgekotijxqthj.com^
 ||mkhoj.com^
 ||mkiajmtucgljsi.com^
 ||mkitgfs.com^
@@ -91686,6 +91715,7 @@
 ||morozhko.club^
 ||morozisneg.ru^
 ||morps.xyz^
+||morrowfreezer.com^
 ||mors22.com^
 ||mortantameron.club^
 ||mortgage-rates.now-cash.com^
@@ -98071,6 +98101,7 @@
 ||osnqmw.shooos.cz^
 ||ospreymedialp.com^
 ||osprmnv.com^
+||ospzbro.cn^
 ||osqa.com^
 ||osqa.net^
 ||osqoglv.cn^
@@ -98304,6 +98335,7 @@
 ||outslang.com^
 ||outsliggooa.com^
 ||outsmoke-niyaxabura.com^
+||outsoarpg.com^
 ||outstandingincome.com^
 ||outstandingsnails.com^
 ||outstandlpopi.xyz^
@@ -99257,6 +99289,7 @@
 ||paidsolution.de^
 ||paidstats.com^
 ||paight.com^
+||paigipto.net^
 ||pailcrime.com^
 ||pailridarm.com^
 ||paime.com^
@@ -100447,6 +100480,7 @@
 ||personagraph.com^
 ||personal-video.live^
 ||personalicanvas.com^
+||personallydf.com^
 ||personalsyahoo.net.zooplus.com^
 ||personyze.com^
 ||perspectivas.deloitte.com^
@@ -101503,6 +101537,7 @@
 ||placquecatella.com^
 ||plads.dk.eu.publicus.com^
 ||plaff-go.ru^
+||plaghs.com^
 ||plaguealacritytwitter.com^
 ||plaguemanipulatedrag.com^
 ||plaicecapacious.com^
@@ -106022,6 +106057,7 @@
 ||qwsad.com^
 ||qwtomdpb.com^
 ||qwvv.com^
+||qwwjgmpfpthke.com^
 ||qwxcs.com^
 ||qwzpslp.cn^
 ||qx568.com^
@@ -109533,6 +109569,7 @@
 ||s.00oo00.com^
 ||s.051352.com^
 ||s.0594529.com^
+||s.0cf.io^
 ||s.123juhd.com^
 ||s.164.net.daraz.com^
 ||s.17173cdn.com^
@@ -114048,6 +114085,7 @@
 ||shyhuetub.site^
 ||shypqc.com^
 ||shyseed.com^
+||shzuggo.cn^
 ||shzyjbr.wtdtjs.rocks^
 ||shzzzz.dftoutiao.com^
 ||si.efwga.xyz^
@@ -122776,6 +122814,7 @@
 ||t1.hoopchina.com.cn^
 ||t1.huafeibianzhidai.com^
 ||t1.jzkapp.com^
+||t1.market.xiaomi.com^
 ||t1.musthird.com^
 ||t1.stadiumgoods.com^
 ||t1.wshufa.com^
@@ -129071,6 +129110,7 @@
 ||tumabeni.com^
 ||tumblebirds.com^
 ||tumeite.cn^
+||tumgcmu.cn^
 ||tummiarunzpf.com^
 ||tummyunmovedfetch.com^
 ||tumri.net^
@@ -129896,6 +129936,7 @@
 ||uiqjcpt.cn^
 ||uirbd.com^
 ||uissm.com^
+||uiswtr3.xyz^
 ||uitopadxdo.com^
 ||uitrens.ru^
 ||uivsebqoxxn.com^
@@ -132828,6 +132869,7 @@
 ||vjoz.lu.sogou.com^
 ||vjptye.cn^
 ||vjunvabdtpwo.com^
+||vk-ads.ru^
 ||vk-traf.ru^
 ||vk77lnizckm6.com^
 ||vkanalytics.net^
@@ -133460,6 +133502,7 @@
 ||vuksoude.net^
 ||vulcan-bit.com^
 ||vulcan.net.zooplus.com^
+||vulgartaivert.website^
 ||vulture.downzeroky.com^
 ||vulturechinamaternity.com^
 ||vungle.cn^
@@ -151028,6 +151071,7 @@
 ||xxxcounter.com^
 ||xxxex.com^
 ||xxxfeng.com^
+||xxxhd.cc^
 ||xxxiijmp.com^
 ||xxxijmp.com^
 ||xxxivjmp.com^
@@ -151979,6 +152023,7 @@
 ||yotefiles.com^
 ||yotta.scrolller.com^
 ||yottacash.com^
+||yottlyscript.com^
 ||yottos.com^
 ||yotube.com^
 ||yotwok.xyz^
@@ -153236,6 +153281,7 @@
 ||zigotop.com^
 ||zigzag.vn^
 ||zihengfx.com^
+||zihuiguochao.top^
 ||ziig.com.cn^
 ||zijaipse.com^
 ||zijuejueta.com^
