@@ -1,11 +1,11 @@
-! Checksum: MTY1Mzc4OTY4MQo=
+! Checksum: MTY1Mzg3NTc4OQo=
 ! Title: Zhijie's Ad Filter for Adblock (WEB-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.2.2-20220529-0
-! TimeUpdated: 2022-05-29T02:01:21+00:00
+! Version: 1.2.2-20220530-0
+! TimeUpdated: 2022-05-30T01:56:29+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 154160
+! Total: 154191
 ||0-132.net.daraz.com^
 ||0-5-weche-4.net.zooplus.com^
 ||0-acc-apac.net.zooplus.com^
@@ -20676,6 +20676,7 @@
 ||9997494f4d4b694d4f6702.online^
 ||999d.com^
 ||999dlce.com^
+||999live.net^
 ||99b3da8d81.com^
 ||99ba476edf.com^
 ||99cheats.com^
@@ -28995,6 +28996,7 @@
 ||aff-policy.lbesecapi.com^
 ||aff-report.lbesecapi.com^
 ||aff-track.net^
+||aff.atp.vn^
 ||aff.biz^
 ||aff.bstatic.com^
 ||aff.camplace.com^
@@ -30404,6 +30406,7 @@
 ||alternativos.iw-advertising.com^
 ||alterupholdcinema.com^
 ||altg.widerplanet.com^
+||althef.com^
 ||altitude-arena.com^
 ||altitudedigital.com^
 ||altobong.net.daraz.com^
@@ -34085,6 +34088,7 @@
 ||asxoseeetdclha.xyz^
 ||asxvawth.com^
 ||asyelop.ru^
+||asymyvhmwyyop.com^
 ||at-ad.com^
 ||at-adserver.alltop.com^
 ||at-cddc.actu-juridique.fr^
@@ -36976,6 +36980,7 @@
 ||beget.tech^
 ||beginadvisor.com^
 ||beginnerdole.com^
+||beginnerpancake.com^
 ||beginstory.biz^
 ||begintrain.com^
 ||beglorena.com^
@@ -41165,6 +41170,7 @@
 ||campaign.bharatmatrimony.com^
 ||campaign.budgethyve.com^
 ||campaign.csrxp.org^
+||campaign.gitiho.com^
 ||campaign.hach.com.cn^
 ||campaign.item-china.cn^
 ||campaign.ivoclar.com^
@@ -43141,6 +43147,7 @@
 ||ch3at.com^
 ||ch4a6r9t1rveuux.com^
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
+||chabeiren.com^
 ||chachors.net^
 ||chackscheats.com^
 ||chaghets.net^
@@ -43523,6 +43530,7 @@
 ||chegulu.ren^
 ||chehuanjie.com^
 ||chekeshi.com^
+||chekseme.net^
 ||cheksoam.com^
 ||chelaxeshi.com^
 ||chelick.net^
@@ -45964,6 +45972,7 @@
 ||columbiabank.net.zooplus.com^
 ||colvk.viki.io^
 ||com-cheat.in^
+||com-csn.com^
 ||com-directory.co^
 ||com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com^
 ||com-ex.ru^
@@ -54375,6 +54384,7 @@
 ||dominocounter.net^
 ||dominoeds.com^
 ||dominospizza-coupon.com^
+||domnicma.com^
 ||domnlk.com^
 ||domnovrek.com^
 ||domob.cn^
@@ -57472,6 +57482,7 @@
 ||eivbjsegbino.com^
 ||eiyhjkqued.com^
 ||eiyoajsslyfxw.net.daraz.com^
+||eiyxjls.cn^
 ||ej.progresas.lt^
 ||ejbiiqhcoc.com^
 ||ejcgtv.spim.ru^
@@ -65647,6 +65658,7 @@
 ||gethacksfree.com^
 ||gethackz.com^
 ||gethit.ru^
+||getibih.cn^
 ||getidglutton.com^
 ||getiluda.com^
 ||getinclinarss.xyz^
@@ -69711,6 +69723,7 @@
 ||h501.cn^
 ||h51.com^
 ||h559.stamfordadvocate.com^
+||h5634t.site^
 ||h5jww.com^
 ||h5log.zongheng.com^
 ||h5tjj3loy2.com^
@@ -71227,6 +71240,7 @@
 ||hiido.com^
 ||hiinpardt.com^
 ||hijack.baidu.com^
+||hijjtiv.cn^
 ||hijragain.com^
 ||hijxfm.gaspedaal.nl^
 ||hikari.website^
@@ -77239,6 +77253,7 @@
 ||jenonaw.com^
 ||jenxsw21lb.com^
 ||jeopardyloo.com^
+||jeoway.com^
 ||jeoyehkc7z.com^
 ||jeperdee.net^
 ||jeperm.com^
@@ -80326,6 +80341,7 @@
 ||kubet79.me^
 ||kubet8.us^
 ||kubet86.com^
+||kubet88.fun^
 ||kubet9.com^
 ||kubet9.net^
 ||kubiadserv.icu^
@@ -80514,6 +80530,7 @@
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||kzdmci.masku.com^
 ||kzfwvqylo.com^
+||kzhtgnv.cn^
 ||kzni.jwhfn.cn^
 ||kzqjwdxxussshe.net^
 ||kzsha.com^
@@ -82569,6 +82586,7 @@
 ||livemovie.me.uk^
 ||livemz.com^
 ||liventernet.ml^
+||liveonline.nhanhoa.com^
 ||livep.l.aiseet.atianqi.com^
 ||livep.l.ott.video.qq.com^
 ||livep.l.qq.com^
@@ -83333,6 +83351,7 @@
 ||logging.carambo.la^
 ||logging.goodgamestudios.com^
 ||logging.je-apps.com^
+||logging.kinhtedothi.vn^
 ||logging.prefixbox.com^
 ||logging.wilmaa.com^
 ||loggingapi.spingo.com^
@@ -92973,6 +92992,7 @@
 ||mylovesister.gq^
 ||mymediarecommendations.com^
 ||mymediasearchnow.com^
+||mymf.shop^
 ||mymikutjxu.xyz^
 ||mymm.zichenit.com^
 ||mymobileappz.com^
@@ -93556,6 +93576,7 @@
 ||nbolame.ru^
 ||nboz.net.zooplus.com^
 ||nbppenllmbiyen.com^
+||nbpritqp.com^
 ||nbpyfog.cn^
 ||nbrecsys.4paradigm.com^
 ||nbrngg.rinkaiseminar.co.jp^
@@ -93641,6 +93662,7 @@
 ||ndrf.757g7g.cn^
 ||ndroip.com^
 ||ndtzx.com^
+||nduad811.com^
 ||ndurrqnqowej.xyz^
 ||ndusa.cn^
 ||ndy.code.weddingeeos.com^
@@ -108372,6 +108394,7 @@
 ||rhtgyvbv.com^
 ||rhubarbsnagtip.com^
 ||rhudsplm.com^
+||rhufmpa.cn^
 ||rhvdsplm.com^
 ||rhvfma2exjudfv.ru^
 ||rhxdsplm.com^
@@ -111058,6 +111081,7 @@
 ||sblftg.com^
 ||sbmrwzkwshit.com^
 ||sboite.cn^
+||sbotop246.com^
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
 ||sbpouqwtft.xyz^
@@ -113004,6 +113028,7 @@
 ||sentry.mba^
 ||sentry.mediacdn.vn^
 ||sentry.nullrefexcep.com^
+||sentry.sendo.vn^
 ||sentry01.zerg.rambler.ru^
 ||sentshared.com^
 ||senxiaopang.top^
@@ -121409,6 +121434,7 @@
 ||studiomugnaini.eu^
 ||studioomovie.com^
 ||studiospa.com.pl^
+||studiostack.com^
 ||study.jcu.edu.au^
 ||study.sjsu.edu^
 ||study.vu.edu.au^
@@ -121824,6 +121850,7 @@
 ||support.r-dw-1.net.daraz.com^
 ||support.streamjav.top^
 ||support.sweepstakes.com^
+||support.tenten.vn^
 ||support2.flex.com^
 ||supportivedistrustuldistrustulmaturity.com^
 ||supportiveimpassableevasion.com^
@@ -123146,6 +123173,7 @@
 ||tagger.ope.scmp.com^
 ||tagger.opecloud.com^
 ||taggify.net^
+||tagging-qadkfoj6ha-as.a.run.app^
 ||taggyad.jp^
 ||taghaugh.com^
 ||tagjunction.com^
@@ -124472,6 +124500,7 @@
 ||tf.caohua.com^
 ||tf.hftaili.com^
 ||tf.logview.alimama.com^
+||tf111.xyz^
 ||tf2-goldhats.com^
 ||tf2-jackpot.com^
 ||tf2-scrap.fun^
@@ -125024,6 +125053,7 @@
 ||thongedoptions.com^
 ||thongke.24h.com.vn^
 ||thongke.baotintuc.vn^
+||thongke.bookingcare.vn^
 ||thongke.opencps.vn^
 ||thongke.tcdulichtphcm.vn^
 ||thongke.vui.vn^
@@ -133812,6 +133842,7 @@
 ||vyocqq.com^
 ||vyphytovu.pro^
 ||vyplzy.job-medley.com^
+||vyrhxfi.cn^
 ||vystakugry.pro^
 ||vytxocb.cn^
 ||vyule.com^
