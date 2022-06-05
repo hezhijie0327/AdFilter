@@ -1,11 +1,11 @@
-! Checksum: MTY1NDMwNjc4Nwo=
+! Checksum: MTY1NDM5NDA3Nwo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.2.2-20220604-0
-! TimeUpdated: 2022-06-04T01:39:47+00:00
+! Version: 1.2.2-20220605-0
+! TimeUpdated: 2022-06-05T01:54:37+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 123107
+! Total: 123126
 |0-132.net.daraz.com^
 |0-158.net.daraz.com^
 |0-acc-apac.net.zooplus.com^
@@ -4550,6 +4550,7 @@
 |6868edu.com^
 |686go.cc^
 |68710266.com^
+|6888i.top^
 |688de7b3822de.com^
 |688mob.com^
 |6899.fun^
@@ -4741,6 +4742,7 @@
 |75673220.net.daraz.com^
 |7577.cc^
 |758ceb189aae8035830c.net.daraz.com^
+|75abf77682.com^
 |75bb9a4031.com^
 |75f7e171e0.com^
 |75to.com^
@@ -13952,6 +13954,7 @@
 |airserve.net^
 |airsoubs.com^
 |airtoump.com^
+|aisastore.club^
 |aise9738.com^
 |aiseet.aa.atianqi.com^
 |aiservice.vn^
@@ -26647,6 +26650,7 @@
 |chenyanjiao.cn^
 |chenyaxin.xyz^
 |chenyayun.com.cn^
+|chenzhao.xyz^
 |chenzx.site^
 |chepaev.ru^
 |chepsigrade.pro^
@@ -35783,6 +35787,7 @@
 |divscripty.net^
 |divxporno.net^
 |diwebstatics.carte-gr.total.fr^
+|diwenganzaoji.com^
 |diwuyu.com^
 |diximedia.es^
 |dixonsrt.hb-api.omtrdc.net^
@@ -35861,6 +35866,7 @@
 |dkecjlcgdeulsp.com^
 |dkemeli.ru^
 |dkeyn.com^
+|dkfixj.xyz^
 |dkfmhv.xyz^
 |dkgmgj.xyz^
 |dkhywqapojyk7.cloudfront.net^
@@ -48681,7 +48687,6 @@
 |go.goodstartgenetics.com^
 |go.gotennapro.com^
 |go.gotourl.xyz^
-|go.gotourls.bid^
 |go.gotranseo.com^
 |go.gotsneakers.com^
 |go.gouspack.com^
@@ -51952,7 +51957,6 @@
 |haoerer.cn^
 |haogame.me^
 |haoghost.com^
-|haogo.cc^
 |haohao321.com^
 |haohaowan8.com^
 |haohud.cc^
@@ -58979,6 +58983,7 @@
 |jiatu.co^
 |jiawen88.com^
 |jiaxinkang.cn^
+|jiaxinzhang.cn^
 |jiaxue.xyz^
 |jiayi1.oss-cn-shanghai.aliyuncs.com^
 |jiayi2019.top^
@@ -65418,6 +65423,7 @@
 |luyongkang.top^
 |luyouxi.cn^
 |luyten-98c.com^
+|luyuheng.love^
 |luzulabeguile.com^
 |luzynka.ru^
 |lv-xin.cn^
@@ -69130,6 +69136,7 @@
 |media8.cn^
 |media970.com^
 |mediaad.org^
+|mediaadjustment.com^
 |mediaappletree.com^
 |mediaarea.eu^
 |mediaarmor.com^
@@ -74637,6 +74644,7 @@
 |nexus.virginholidays.co.uk^
 |nexxxt.biz^
 |nexxzy.com^
+|neyhdjwpumivpa.com^
 |neyrvru.wmbgc.xyz^
 |neysjymxkgvs.xyz^
 |nezttolpyroty.com^
@@ -74667,6 +74675,7 @@
 |nfh.cnshef.com^
 |nfhisz.mirmagnitov.ru^
 |nfhldnpnfmp.com^
+|nfhlink.com^
 |nfimbyjnnkmtegl.top^
 |nfiuerwtftasnuk.com^
 |nfkd2ug8d9.com^
@@ -82030,6 +82039,7 @@
 |postquare.com^
 |postrelease.com^
 |postsupport.net^
+|posttrendingblog.com^
 |postuler.bpost.be^
 |postupset.com^
 |postureconstituent.com^
@@ -82714,6 +82724,7 @@
 |productionsstats.net.zooplus.com^
 |productivepear.com^
 |productresearchpanel.com^
+|products.gobankingrates.com^
 |products.ricoh.ie^
 |productsrev.com^
 |producttestpanel.com^
@@ -87935,6 +87946,7 @@
 |rrlafphbrpazu.com^
 |rrogfhs.cn^
 |rrolawcats2bsl4b.in.net^
+|rrr.plus^
 |rrr.youle55.com^
 |rrrsnxzkhbwwrs.com^
 |rrss.abc.es^
@@ -92004,6 +92016,7 @@
 |shepeekr.net^
 |shepherdbetrayaldecoction.com^
 |shepoart.com^
+|shequdaohang.com^
 |shequn.online^
 |sher.index.hu^
 |sherlockseries.ru^
@@ -113536,6 +113549,7 @@
 |wongds.top^
 |woniu1314520.vip^
 |wonoddgiris.com^
+|wonsegax.net^
 |wontonsnosite.com^
 |wonwg.com^
 |wooboo.com.cn^
@@ -119548,6 +119562,7 @@
 |xinxbh.cn^
 |xiny.yssbi.net^
 |xinyansaas.com^
+|xinyexinye.ltd^
 |xinyikeji.red^
 |xinym1.xyz^
 |xinym2.xyz^
@@ -119714,6 +119729,7 @@
 |xml.trafficmoose.com^
 |xml.yepmedia.com^
 |xmlads.bid^
+|xmlapiclickredirect.com^
 |xmlgrab.com^
 |xmlheads.com^
 |xmliw.com^
@@ -121656,6 +121672,7 @@
 |yurivideo.com^
 |yushengyuancaishui.com^
 |yushuha.com^
+|yusnw.cc^
 |yustitum.ru^
 |yusukgbirmwi.com^
 |yuu360.com^
@@ -121702,6 +121719,7 @@
 |ywgcbcibz.com^
 |ywhjxlfmowqvx.xyz^
 |ywhnh.top^
+|ywinterspace.ltd^
 |ywjxsp168.cn^
 |ywodpsbzl.com^
 |ywpohn.zoloto585.ru^
@@ -122075,6 +122093,7 @@
 |zdrawnews.ru^
 |zdrcnx.cn^
 |zdryg.com^
+|zdsfnagupwkztl.com^
 |zdtag.com^
 |zdtvfpu.cn^
 |zdw.w8.com.cn^
