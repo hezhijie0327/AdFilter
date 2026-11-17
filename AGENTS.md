@@ -137,7 +137,7 @@ The build skips regeneration when the domain list is unchanged (same check as th
 - Whitespace stripping is per-line (`[^\S\n]`): sed never sees the newline itself.
 - The hosts output interleaves `0.0.0.0 domain` and `:: domain` per domain (both echos share one loop in the original).
 - The allow list strips `@^|`, the block list only `^|`.
-- `data/data_allow.txt` and `data/data_block.txt` are fetched from **main** via URL (self-referential); keep those URLs in sync when renaming files.
+- `custom/allow.txt` and `custom/block.txt` are fetched from **main** via URL (self-referential); keep those URLs in sync when renaming files.
 - Version is `<Current Version from main/build.py>-<YYYYMMDD>-<hour//3>`, UTC.
 
 ## Dependencies
@@ -151,4 +151,4 @@ The build skips regeneration when the domain list is unchanged (same check as th
 ## Key Docs
 
 - [README.md](README.md) — output descriptions and usage (Chinese)
-- `data/data_allow.txt`, `data/data_block.txt` — custom allow/block entries
+- `custom/allow.txt`, `custom/block.txt` — custom allow/block entries

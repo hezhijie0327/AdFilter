@@ -130,7 +130,7 @@ FILTER_DOMAIN = (
     "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt",
     "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt",
     "https://raw.githubusercontent.com/examplecode/ad-rules-for-xbrowser/master/core-rule-cn.txt",
-    "https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/data/data_block.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/custom/block.txt",
     "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt",
 )
 FILTER_HOSTS = (
@@ -159,7 +159,7 @@ FILTER_WHITE = (
     "https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt",
     "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt",
     "https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt",
-    "https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/data/data_allow.txt",
+    "https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/custom/allow.txt",
     "https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_domains.txt",
     "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt",
     "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt",

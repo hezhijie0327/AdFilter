@@ -57,8 +57,8 @@ python3 build.py
 
 ## 自定义规则
 
-- `data/data_block.txt`：自定义黑名单域名（每行一个，`#` 开头为注释）
-- `data/data_allow.txt`：自定义白名单域名（从结果中剔除）
+- `custom/block.txt`：自定义黑名单域名（每行一个，`#` 开头为注释）
+- `custom/allow.txt`：自定义白名单域名（从结果中剔除）
 
 两个文件经 main 分支 URL 自引用拉取，修改后推送即生效。
 
