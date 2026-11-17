@@ -42,16 +42,16 @@ python3 build.py
 
 | 文件 | 适用客户端 | 层级 |
 | ---- | ---------- | ---- |
-| `dist/adblock.txt` | Adblock / uBlock Origin | WEB 级 |
-| `dist/adguardhome.txt` | AdGuard Home | DNS 级 |
-| `dist/clash.yaml` | Clash | DNS 级 |
-| `dist/dnsmasq.conf` | Dnsmasq | DNS 级 |
-| `dist/domains.txt` | Pi-hole | DNS 级 |
-| `dist/hosts.txt` | AdAway / hosts | DNS 级 |
-| `dist/quantumult.yaml` | Quantumult | DNS 级 |
-| `dist/smartdns.conf` | SmartDNS | DNS 级 |
-| `dist/surge.yaml` | Surge | DNS 级 |
-| `dist/unbound.conf` | Unbound | DNS 级 |
+| [adblock.txt](dist/adblock.txt) | Adblock / uBlock Origin | WEB 级 |
+| [adguardhome.txt](dist/adguardhome.txt) | AdGuard Home | DNS 级 |
+| [clash.yaml](dist/clash.yaml) | Clash | DNS 级 |
+| [dnsmasq.conf](dist/dnsmasq.conf) | Dnsmasq | DNS 级 |
+| [domains.txt](dist/domains.txt) | Pi-hole | DNS 级 |
+| [hosts.txt](dist/hosts.txt) | AdAway / hosts | DNS 级 |
+| [quantumult.yaml](dist/quantumult.yaml) | Quantumult | DNS 级 |
+| [smartdns.conf](dist/smartdns.conf) | SmartDNS | DNS 级 |
+| [surge.yaml](dist/surge.yaml) | Surge | DNS 级 |
+| [unbound.conf](dist/unbound.conf) | Unbound | DNS 级 |
 
 每个文件头部包含 Checksum、Title、Description、Version、TimeUpdated、Expires、Homepage、Total 元数据。
 
