@@ -19,13 +19,13 @@
 
 ```bash
 # AdGuard Home（DNS 级）
-curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/adfilter_adguardhome.txt
+curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/dist/adguardhome.txt
 
 # Clash 规则集
-curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/adfilter_clash.yaml
+curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/dist/clash.yaml
 
 # hosts（AdAway）
-curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/adfilter_hosts.txt
+curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/dist/hosts.txt
 ```
 
 ### 方式二：本地构建
@@ -38,20 +38,20 @@ python3 build.py
 
 依赖：Python 3.9+（仅标准库）、网络访问。
 
-## 文件说明
+## 文件说明（`dist/`）
 
 | 文件 | 适用客户端 | 层级 |
 | ---- | ---------- | ---- |
-| `adfilter_adblock.txt` | Adblock / uBlock Origin | WEB 级 |
-| `adfilter_adguardhome.txt` | AdGuard Home | DNS 级 |
-| `adfilter_clash.yaml` | Clash | DNS 级 |
-| `adfilter_dnsmasq.conf` | Dnsmasq | DNS 级 |
-| `adfilter_domains.txt` | Pi-hole | DNS 级 |
-| `adfilter_hosts.txt` | AdAway / hosts | DNS 级 |
-| `adfilter_quantumult.yaml` | Quantumult | DNS 级 |
-| `adfilter_smartdns.conf` | SmartDNS | DNS 级 |
-| `adfilter_surge.yaml` | Surge | DNS 级 |
-| `adfilter_unbound.conf` | Unbound | DNS 级 |
+| `dist/adblock.txt` | Adblock / uBlock Origin | WEB 级 |
+| `dist/adguardhome.txt` | AdGuard Home | DNS 级 |
+| `dist/clash.yaml` | Clash | DNS 级 |
+| `dist/dnsmasq.conf` | Dnsmasq | DNS 级 |
+| `dist/domains.txt` | Pi-hole | DNS 级 |
+| `dist/hosts.txt` | AdAway / hosts | DNS 级 |
+| `dist/quantumult.yaml` | Quantumult | DNS 级 |
+| `dist/smartdns.conf` | SmartDNS | DNS 级 |
+| `dist/surge.yaml` | Surge | DNS 级 |
+| `dist/unbound.conf` | Unbound | DNS 级 |
 
 每个文件头部包含 Checksum、Title、Description、Version、TimeUpdated、Expires、Homepage、Total 元数据。
 

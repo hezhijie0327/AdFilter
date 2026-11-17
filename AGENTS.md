@@ -107,7 +107,7 @@ Family-wide Markdown rules, shared verbatim across all ZJ projects:
 
 ## Project
 
-AdFilter fetches adblock rules, domain lists, hosts files and whitelists, extracts a clean domain blocklist (block minus allow), and renders it into 10 output formats with standardized metadata headers. Updated daily via GitHub Actions.
+AdFilter fetches adblock rules, domain lists, hosts files and whitelists, extracts a clean domain blocklist (block minus allow), and renders it into 10 output formats under `dist/` with standardized metadata headers. Updated daily via GitHub Actions.
 
 ## Commands
 
@@ -116,14 +116,14 @@ AdFilter fetches adblock rules, domain lists, hosts files and whitelists, extrac
 python3 build.py
 ```
 
-The build skips regeneration when the domain list is unchanged (same check as the original: compare against `adfilter_domains.txt` body).
+The build skips regeneration when the domain list is unchanged (same check as the original: compare against the `dist/domains.txt` body).
 
 ## Architecture
 
 1. `get_data()` downloads five URL groups in parallel (adblock, domain, hosts, other, white).
 2. `analyse_data()` cleans each group (hosts prefixes, rule syntax), extracts valid domains, subtracts the whitelist and drops `..` lines.
 3. `generate_information()` builds metadata (Checksum, Title, Description, Version, TimeUpdated, Expires, Homepage, Total).
-4. `output_data()` renders every format from the shared `FORMATS` table.
+4. `output_data()` renders every format from the shared `FORMATS` table into `dist/<name>.<ext>`.
 
 ## Conventions
 

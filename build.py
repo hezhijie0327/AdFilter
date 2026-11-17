@@ -14,6 +14,7 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent
+DIST_DIR = ROOT / "dist"
 
 FILTER_ADBLOCK = (
     "https://easylist.to/easylist/easylist.txt",
@@ -193,16 +194,16 @@ HOSTS_LOCAL_BLOCK = (
 
 # Output formats: (file name, comment prefix, title suffix, rule template)
 FORMATS = (
-    ("adfilter_adblock.txt", "!", "Adblock (WEB-level)", "||{domain}^"),
-    ("adfilter_adguardhome.txt", "!", "AdGuard Home (DNS-level)", "|{domain}^"),
-    ("adfilter_clash.yaml", "#", "Clash (DNS-level)", "  - DOMAIN,{domain}"),
-    ("adfilter_dnsmasq.conf", "#", "Dnsmasq (DNS-level)", "address=/{domain}/"),
-    ("adfilter_domains.txt", "#", "Pi-hole (DNS-level)", "{domain}"),
-    ("adfilter_hosts.txt", "#", "AdAway (DNS-level)", "0.0.0.0 {domain}"),
-    ("adfilter_quantumult.yaml", "#", "Quantumult (DNS-level)", "DOMAIN,{domain},REJECT"),
-    ("adfilter_smartdns.conf", "#", "SmartDNS (DNS-level)", "address /{domain}/#"),
-    ("adfilter_surge.yaml", "#", "Surge (DNS-level)", "DOMAIN,{domain}"),
-    ("adfilter_unbound.conf", "#", "Unbound (DNS-level)", 'local-zone: "{domain}" always_nxdomain'),
+    ("adblock.txt", "!", "Adblock (WEB-level)", "||{domain}^"),
+    ("adguardhome.txt", "!", "AdGuard Home (DNS-level)", "|{domain}^"),
+    ("clash.yaml", "#", "Clash (DNS-level)", "  - DOMAIN,{domain}"),
+    ("dnsmasq.conf", "#", "Dnsmasq (DNS-level)", "address=/{domain}/"),
+    ("domains.txt", "#", "Pi-hole (DNS-level)", "{domain}"),
+    ("hosts.txt", "#", "AdAway (DNS-level)", "0.0.0.0 {domain}"),
+    ("quantumult.yaml", "#", "Quantumult (DNS-level)", "DOMAIN,{domain},REJECT"),
+    ("smartdns.conf", "#", "SmartDNS (DNS-level)", "address /{domain}/#"),
+    ("surge.yaml", "#", "Surge (DNS-level)", "DOMAIN,{domain}"),
+    ("unbound.conf", "#", "Unbound (DNS-level)", 'local-zone: "{domain}" always_nxdomain'),
 )
 
 
@@ -271,6 +272,7 @@ def generate_information(total):
 
 # Output Data
 def output_data(filter_data, info):
+    DIST_DIR.mkdir(parents=True, exist_ok=True)
     for file_name, comment, suffix, template in FORMATS:
         lines = [
             f"{comment} Checksum: {info['checksum']}",
@@ -282,25 +284,25 @@ def output_data(filter_data, info):
             f"{comment} Homepage: {HOMEPAGE}",
             f"{comment} Total: {info['total']}",
         ]
-        if file_name == "adfilter_hosts.txt":
+        if file_name == "hosts.txt":
             lines += HOSTS_LOCAL_BLOCK
-        if file_name == "adfilter_clash.yaml":
+        if file_name == "clash.yaml":
             lines.insert(0, "payload:")
-        if file_name == "adfilter_hosts.txt":
+        if file_name == "hosts.txt":
             # IPv4 and IPv6 lines interleave per domain in the original loop
             for domain in filter_data:
                 lines.append(f"0.0.0.0 {domain}")
                 lines.append(f":: {domain}")
         else:
             lines += [template.format(domain=domain) for domain in filter_data]
-        (ROOT / file_name).write_text("\n".join(lines) + "\n")
+        (DIST_DIR / file_name).write_text("\n".join(lines) + "\n")
 
 
 ## Process
 def main():
     filter_data = analyse_data(*get_data())
     # Skip regeneration when the domain list is unchanged
-    domains_file = ROOT / "adfilter_domains.txt"
+    domains_file = DIST_DIR / "domains.txt"
     if domains_file.exists():
         old = domains_file.read_text().split("\n")[8:-1]
         if old == filter_data:
