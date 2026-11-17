@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0--Commons%20Clause-blue)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-聚合多个广告过滤列表，生成适用于 10 种客户端/格式的广告屏蔽规则（Python 3.9+，仅标准库）。开发规范见 [AGENTS.md](AGENTS.md)。
+AdFilter 聚合 EasyList、AdGuard、anti-AD、yhosts 等多个广告过滤列表，生成适用于 10 种客户端/格式的广告屏蔽规则；Python 3.9+ 标准库实现，GitHub Actions 每日更新。开发规范见 [AGENTS.md](AGENTS.md)。
 
 ## 特性
 
@@ -15,30 +15,7 @@
 
 ## 快速开始
 
-### 方式一：直接使用生成的文件
-
-```bash
-# AdGuard Home（DNS 级）
-curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/dist/adguardhome.txt
-
-# Clash 规则集
-curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/dist/clash.yaml
-
-# hosts（AdAway）
-curl -O https://raw.githubusercontent.com/hezhijie0327/AdFilter/main/dist/hosts.txt
-```
-
-### 方式二：本地构建
-
-```bash
-git clone https://github.com/hezhijie0327/AdFilter.git
-cd AdFilter
-python3 build.py
-```
-
-依赖：Python 3.9+（仅标准库）、网络访问。
-
-## 文件说明（`dist/`）
+### 直接下载
 
 | 文件 | 适用客户端 | 层级 |
 | ---- | ---------- | ---- |
@@ -55,7 +32,19 @@ python3 build.py
 
 每个文件头部包含 Checksum、Title、Description、Version、TimeUpdated、Expires、Homepage、Total 元数据。
 
-## 自定义规则
+### 本地构建
+
+```bash
+git clone https://github.com/hezhijie0327/AdFilter.git
+cd AdFilter
+python3 build.py
+```
+
+依赖：Python 3.9+（仅标准库）、网络访问。
+
+## 用法
+
+### 自定义规则
 
 - `custom/block.txt`：自定义黑名单域名（每行一个，`#` 开头为注释）
 - `custom/allow.txt`：自定义白名单域名（从结果中剔除）
